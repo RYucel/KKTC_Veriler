@@ -438,7 +438,7 @@ Bu test, asgari ücret ile enflasyon arasındaki nedensellik ilişkisinin yönü
 
 Bu sonuçlar, hem enflasyonun asgari ücreti etkilediğini hem de asgari ücretin enflasyonu etkilediğini göstermektedir. Bu, ücret-fiyat sarmalının varlığını destekler.
 
-Harika, şimdi son bölümle çalışmamızı tamamlayalım. Bu bölümde, asgari ücretin enflasyon üzerindeki etkisini sayısallaştıracağız, sonuçları özetleyip yorumlayacak ve çalışmamızın tüm kodunu bir araya getireceğiz. Böylece hem bulgularımızı özetlemiş, hem de metodolojimizi şeffaf bir şekilde sunmuş olacağız.
+Bu bölümde, asgari ücretin enflasyon üzerindeki etkisini sayısallaştıracağız, sonuçları özetleyip yorumlayacak ve çalışmamızın tüm kodunu bir araya getireceğiz.
 
 ### 4. Etki Analizi, Sonuç ve Genel Değerlendirme
 

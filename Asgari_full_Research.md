@@ -82,7 +82,6 @@ Bu çalışma, Kuzey Kıbrıs Türk Cumhuriyeti'ndeki (KKTC) asgari ücret ile t
     dtype: object
     ```
 
-```markdown
 ### 2. Birim Kök Testleri ve ARDL Sınır Testi
 
 Bu bölümde, verilerimizin durağanlık özelliklerini belirlemek için kullandığımız birim kök testlerini ve ardından asgari ücret ile enflasyon arasındaki uzun dönem ilişkiyi incelemek için uyguladığımız ARDL sınır testini sunacağız.
@@ -323,7 +322,6 @@ Birim kök testleri, verilerin durağan olmadığını gösterdi. Bu durumda, AR
 
     Elbette, şimdi üçüncü bölümle devam edelim. Bu bölümde, uzun dönem katsayılarını, hata düzeltme modelini (ECM) ve Toda-Yamamoto nedensellik testinin sonuçlarını ekleyelim. Böylece, hem uzun dönem etkileri hem de kısa dönem etkileşimleri ve nedensellik ilişkilerini incelemiş olacağız.
 
-```markdown
 ### 3. Uzun Dönem Katsayıları, Hata Düzeltme Modeli ve Nedensellik Analizi
 
 Bu bölümde, ARDL modelinden elde ettiğimiz uzun dönem katsayılarını, hata düzeltme modelinin (ECM) sonuçlarını ve Toda-Yamamoto nedensellik testi sonuçlarını sunacağız.
@@ -444,7 +442,6 @@ Bu sonuçlar, hem enflasyonun asgari ücreti etkilediğini hem de asgari ücreti
 
 Harika, şimdi son bölümle çalışmamızı tamamlayalım. Bu bölümde, asgari ücretin enflasyon üzerindeki etkisini sayısallaştıracağız, sonuçları özetleyip yorumlayacak ve çalışmamızın tüm kodunu bir araya getireceğiz. Böylece hem bulgularımızı özetlemiş, hem de metodolojimizi şeffaf bir şekilde sunmuş olacağız.
 
-```markdown
 ### 4. Etki Analizi, Sonuç ve Genel Değerlendirme
 
 Bu bölümde, önceki analizlerden elde ettiğimiz tüm bulguları bir araya getirerek, asgari ücretin enflasyon üzerindeki etkisini sayısallaştıracağız, sonuçlarımızı özetleyip yorumlayacak ve çalışmamızın tüm kodunu bir araya getireceğiz.

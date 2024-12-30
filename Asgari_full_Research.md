@@ -1,6 +1,6 @@
 **Bölüm 1: Giriş ve Veri Hazırlığı**
 
-Şimdi ilk bölümü oluşturalım. Bu bölümde, çalışmamızın amacını ve kullanılan verileri açıklayalım. Ardından, verilerin nasıl hazırlandığını gösteren kodları ve çıktıları ekleyelim.
+Bu bölümde, çalışmamızın amacını ve kullanılan verileri açıklayalım. Ardından, verilerin nasıl hazırlandığını gösteren kodları ve çıktıları ekleyelim.
 
 ```markdown
 ## Kuzey Kıbrıs Türk Cumhuriyeti'nde Asgari Ücret ve Enflasyon İlişkisi: Bir Ekonometrik İnceleme

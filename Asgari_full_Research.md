@@ -80,7 +80,6 @@ Bu çalışma, Kuzey Kıbrıs Türk Cumhuriyeti'ndeki (KKTC) asgari ücret ile t
     CPI        float64
     MinWage    float64
     dtype: object
-    ```
 
 ### 2. Birim Kök Testleri ve ARDL Sınır Testi
 

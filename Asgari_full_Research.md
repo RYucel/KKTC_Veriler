@@ -69,7 +69,6 @@ Bu çalışma, Kuzey Kıbrıs Türk Cumhuriyeti'ndeki (KKTC) asgari ücret ile t
     print(min_wage_df.head())
     print(min_wage_df.dtypes)
     ```
-   ```
                    CPI   MinWage
     Date                          
     1977-05-01  4.634729  7.506028

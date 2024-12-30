@@ -318,7 +318,7 @@ Birim kök testleri, verilerin durağan olmadığını gösterdi. Bu durumda, AR
 
     Bu sonuçlar, asgari ücret ile enflasyon arasında uzun vadeli bir ilişki olduğunu gösteriyor. F istatistiği kritik değerlerden yüksek olduğu için "seriler arasında uzun dönemli ilişki yoktur" şeklindeki sıfır hipotezini reddettik.
 
-    Elbette, şimdi üçüncü bölümle devam edelim. Bu bölümde, uzun dönem katsayılarını, hata düzeltme modelini (ECM) ve Toda-Yamamoto nedensellik testinin sonuçlarını ekleyelim. Böylece, hem uzun dönem etkileri hem de kısa dönem etkileşimleri ve nedensellik ilişkilerini incelemiş olacağız.
+Bu bölümde, uzun dönem katsayılarını, hata düzeltme modelini (ECM) ve Toda-Yamamoto nedensellik testinin sonuçlarını ekleyelim. Böylece, hem uzun dönem etkileri hem de kısa dönem etkileşimleri ve nedensellik ilişkilerini incelemiş olacağız.
 
 ### 3. Uzun Dönem Katsayıları, Hata Düzeltme Modeli ve Nedensellik Analizi
 

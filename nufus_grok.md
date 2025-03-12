@@ -1,4 +1,4 @@
-# Key Points
+# Ana Noktalar
 
 Araştırmalar, günümüzde her iki ebeveyni de Kıbrıs doğumlu olan Türk Kıbrıslıların nüfusunun yaklaşık 135.000 olduğunu göstermektedir.  
 1974'te ada bölündükten hemen sonra bu nüfusun yaklaşık 98.000 olduğu düşünülmektedir.  

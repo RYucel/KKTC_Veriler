@@ -4,6 +4,10 @@
 *   Kanıtlar, ortalama 30 metre derinlik ve metreküp başına 2,6 ton taş yoğunluğu ile toplamda yaklaşık 4 kilometrekarelik bir kazı alanına işaret ediyor.
 *   Araştırma, madenin bölge üzerindeki etkisinin önemli olduğunu, farklı yüksekliklerin eğimli bir araziyi işaret ettiğini ve bu durumun kesin tahminleri zorlaştırdığını gösteriyor.
 
+![tasOcak_KKTC_besparmak](https://github.com/user-attachments/assets/4a931c4b-537d-4638-a287-8db05e72c755)
+
+
+
 ### Alan ve Derinlik Tahmini
 
 20 Mayıs 2024 tarihli uydu görüntüsü, birden fazla kazı çukurunu göstermektedir; en büyük çukurun tahmini 1,08 kilometrekare ve toplam kazı alanının yaklaşık 4,02 kilometrekare olduğu tahmin edilmektedir. Teraslı yapılardan (her biri 5-10 metre olan 3-5 seviye) çıkarılan derinlik, ortalama 30 metre civarındadır ve bu da yaklaşık 120 milyon metreküp hacim tahminine yol açmaktadır.

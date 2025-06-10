@@ -32,6 +32,7 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | 18            | 2                | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kazada-ali-ozarapkoylu-ve-raja-shariq-amin-hayatini-kaybetti/) |
 | 19            | 1 (tahmini)      | [Kibris Gazetesi](https://kibrisgazetesi.com/minarelikoydeki-feci-kazada-motosiklette-yolcu-olan-ali-minnos-hayatini-kaybetti/) |
 | 20            | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/pinarbasinda-trafik-kazasi-can-aldi-25-yasindaki-motosiklet-surucusu-hayatini-kaybetti/)) |
+| 21            | 1                | [Topuz Gazetesi](https://www.topuzgazetesi.com/trafik-kazasinda-agir-yaralanmisti-motosiklet-surucusu-hayatini-kaybetti)) |
 
 
 **Not**: 11, 12, 13, 14, 15, 16, 17 ve 19 numaralı kazaların ölüm sayıları, haber başlıklarından (örneğin, “1 kişi”, “bir can” veya tek bir isim) tahmini olarak belirlenmiştir.
@@ -67,17 +68,18 @@ Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 | 18            | Girne – Değirmenlik Anayolu | Girne |
 | 19            | Minareliköy | Girne |
 | 20            | Pınarbaşı | Girne |
+| 21            | Çatalköy | Girne |
 
 
 ### İlçelere Göre Dağılım
-- **Girne**: 11 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20)
+- **Girne**: 11 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20, 21)
 - **Gazimağusa**: 4 kaza (Kazalar: 2, 3, 10, 15)
 - **Lefkoşa**: 3 kaza (Kazalar: 5, 8, 9)
 - **Güzelyurt**: 2 kaza (Kazalar: 1, 17)
 
 ## En Çok Kaza Olan Yerler
 
-**Girne ilçesi**, 10 kaza ile en fazla kazanın meydana geldiği bölge olarak öne çıkmaktadır. Bu durum, Girne’nin yoğun trafiği, turistik aktiviteleri veya yol koşullarından kaynaklanabilir. Gazimağusa 4 kaza ile ikinci sırada yer alırken, Lefkoşa’da 3 ve Güzelyurt’ta 2 kaza rapor edilmiştir.
+**Girne ilçesi**, 12 kaza ile en fazla kazanın meydana geldiği bölge olarak öne çıkmaktadır. Bu durum, Girne’nin yoğun trafiği, turistik aktiviteleri veya yol koşullarından kaynaklanabilir. Gazimağusa 4 kaza ile ikinci sırada yer alırken, Lefkoşa’da 3 ve Güzelyurt’ta 2 kaza rapor edilmiştir.
 
 ### Girne’deki Kazaların Detayları
 Girne’deki kazalar, ilçenin farklı noktalarında meydana gelmiştir:
@@ -87,10 +89,11 @@ Girne’deki kazalar, ilçenin farklı noktalarında meydana gelmiştir:
 - **Kilitkaya**: 1 ölüm (tahmini, Kaza 11)
 - **Girne (genel)**: 2 kaza, her biri 1 ölüm (tahmini, Kazalar 12, 13)
 - **Yenierenköy**: 1 ölüm (tahmini, Kaza 14)
-- **Esentep**: 1 ölüm (tahmini, Kaza 16)
+- **Esentepe**: 1 ölüm (tahmini, Kaza 16)
 - **Girne – Değirmenlik Anayolu**: 2 ölüm (Kaza 18)
 - **Minareliköy**: 1 ölüm (tahmini, Kaza 19)
 - **Pınarbaşı**: 1 ölüm (Kaza 20)
+- **Çatalköy**: 1 ölüm (Kaza 21)
 
 ### Gazimağusa’daki Kazaların Detayları
 Gazimağusa’daki kazalar, ana yollar üzerinde yoğunlaşmıştır:
@@ -112,4 +115,4 @@ Güzelyurt’taki kazalar, ana yollar üzerinde meydana gelmiştir:
 
 ## Metodoloji
 
-Bu rapor, sağlanan 19 haber bağlantısının detaylı bir incelemesine dayanmaktadır. Her
+Bu rapor, sağlanan 21 haber bağlantısının detaylı bir incelemesine dayanmaktadır.

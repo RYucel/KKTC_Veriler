@@ -4,8 +4,8 @@ Bu rapor, 2025 yılının başlarında Kuzey Kıbrıs’ta meydana gelen ve [Kib
 
 ## Toplam Ölümler
 
-Sağlanan 19 haber bağlantısına göre, trafik kazalarında toplam **21 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
-- **19 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
+Sağlanan 22 haber bağlantısına göre, trafik kazalarında toplam **24 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
+- **20 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
 - **2 kaza**, ikişer ölümle sonuçlanmıştır (toplam 4 kişi).
 
 Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetlemektedir:
@@ -31,9 +31,9 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | 17            | 1 (tahmini)      | [Kibris Gazetesi](https://kibrisgazetesi.com/trafige-bir-can-daha-22-yasindaki-surucu-yasamini-yitirdi/) |
 | 18            | 2                | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kazada-ali-ozarapkoylu-ve-raja-shariq-amin-hayatini-kaybetti/) |
 | 19            | 1 (tahmini)      | [Kibris Gazetesi](https://kibrisgazetesi.com/minarelikoydeki-feci-kazada-motosiklette-yolcu-olan-ali-minnos-hayatini-kaybetti/) |
-| 20            | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/pinarbasinda-trafik-kazasi-can-aldi-25-yasindaki-motosiklet-surucusu-hayatini-kaybetti/)) |
-| 21            | 1                | [Topuz Gazetesi](https://www.topuzgazetesi.com/trafik-kazasinda-agir-yaralanmisti-motosiklet-surucusu-hayatini-kaybetti)) |
-| 22            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/girne-alsancak-anayolunda-meydana-gelen-kazada-81-yasindaki-fuat-zorali-oldu/)) |
+| 20            | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/pinarbasinda-trafik-kazasi-can-aldi-25-yasindaki-motosiklet-surucusu-hayatini-kaybetti/) |
+| 21            | 1                | [Topuz Gazetesi](https://www.topuzgazetesi.com/trafik-kazasinda-agir-yaralanmisti-motosiklet-surucusu-hayatini-kaybetti) |
+| 22            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/girne-alsancak-anayolunda-meydana-gelen-kazada-81-yasindaki-fuat-zorali-oldu/) |
 
 
 

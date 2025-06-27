@@ -33,6 +33,8 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | 19            | 1 (tahmini)      | [Kibris Gazetesi](https://kibrisgazetesi.com/minarelikoydeki-feci-kazada-motosiklette-yolcu-olan-ali-minnos-hayatini-kaybetti/) |
 | 20            | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/pinarbasinda-trafik-kazasi-can-aldi-25-yasindaki-motosiklet-surucusu-hayatini-kaybetti/)) |
 | 21            | 1                | [Topuz Gazetesi](https://www.topuzgazetesi.com/trafik-kazasinda-agir-yaralanmisti-motosiklet-surucusu-hayatini-kaybetti)) |
+| 22            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/girne-alsancak-anayolunda-meydana-gelen-kazada-81-yasindaki-fuat-zorali-oldu/)) |
+
 
 
 **Not**: 11, 12, 13, 14, 15, 16, 17 ve 19 numaralı kazaların ölüm sayıları, haber başlıklarından (örneğin, “1 kişi”, “bir can” veya tek bir isim) tahmini olarak belirlenmiştir.
@@ -69,10 +71,11 @@ Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 | 19            | Minareliköy | Girne |
 | 20            | Pınarbaşı | Girne |
 | 21            | Çatalköy | Girne |
+| 22            | Alsancak | Girne |
 
 
 ### İlçelere Göre Dağılım
-- **Girne**: 11 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20, 21)
+- **Girne**: 12 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20, 21, 22)
 - **Gazimağusa**: 4 kaza (Kazalar: 2, 3, 10, 15)
 - **Lefkoşa**: 3 kaza (Kazalar: 5, 8, 9)
 - **Güzelyurt**: 2 kaza (Kazalar: 1, 17)
@@ -94,6 +97,7 @@ Girne’deki kazalar, ilçenin farklı noktalarında meydana gelmiştir:
 - **Minareliköy**: 1 ölüm (tahmini, Kaza 19)
 - **Pınarbaşı**: 1 ölüm (Kaza 20)
 - **Çatalköy**: 1 ölüm (Kaza 21)
+- **Alsancak**: 1 ölüm (Kaza 22)
 
 ### Gazimağusa’daki Kazaların Detayları
 Gazimağusa’daki kazalar, ana yollar üzerinde yoğunlaşmıştır:
@@ -115,4 +119,4 @@ Güzelyurt’taki kazalar, ana yollar üzerinde meydana gelmiştir:
 
 ## Metodoloji
 
-Bu rapor, sağlanan 21 haber bağlantısının detaylı bir incelemesine dayanmaktadır.
+Bu rapor, sağlanan 22 haber bağlantısının detaylı bir incelemesine dayanmaktadır.

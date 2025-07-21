@@ -4,8 +4,8 @@ Bu rapor, 2025 yılının başlarında Kuzey Kıbrıs’ta meydana gelen ve [Kib
 
 ## Toplam Ölümler
 
-Sağlanan 22 haber bağlantısına göre, trafik kazalarında toplam **24 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
-- **20 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
+Sağlanan 22 haber bağlantısına göre, trafik kazalarında toplam **25 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
+- **21 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
 - **2 kaza**, ikişer ölümle sonuçlanmıştır (toplam 4 kişi).
 
 Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetlemektedir:

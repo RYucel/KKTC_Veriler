@@ -34,7 +34,7 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | 20            | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/pinarbasinda-trafik-kazasi-can-aldi-25-yasindaki-motosiklet-surucusu-hayatini-kaybetti/) |
 | 21            | 1                | [Topuz Gazetesi](https://www.topuzgazetesi.com/trafik-kazasinda-agir-yaralanmisti-motosiklet-surucusu-hayatini-kaybetti) |
 | 22            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/girne-alsancak-anayolunda-meydana-gelen-kazada-81-yasindaki-fuat-zorali-oldu/) |
-| 23            | 1                | [TAK](https://www.tak.gov.ct.tr/haber-detay/taspinar-bostanci-anayolunda-olumlu-trafik-kazasi1-kisi-hayatini-kaybetti) |
+| 23            | 1                | [TAK](https://x.com/TAKAjansi/status/1947179063832961196) |
 
 
 

@@ -34,6 +34,7 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | 20            | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/pinarbasinda-trafik-kazasi-can-aldi-25-yasindaki-motosiklet-surucusu-hayatini-kaybetti/) |
 | 21            | 1                | [Topuz Gazetesi](https://www.topuzgazetesi.com/trafik-kazasinda-agir-yaralanmisti-motosiklet-surucusu-hayatini-kaybetti) |
 | 22            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/girne-alsancak-anayolunda-meydana-gelen-kazada-81-yasindaki-fuat-zorali-oldu/) |
+| 23            | 1                | [TAK](https://www.tak.gov.ct.tr/haber-detay/taspinar-bostanci-anayolunda-olumlu-trafik-kazasi1-kisi-hayatini-kaybetti) |
 
 
 
@@ -72,13 +73,14 @@ Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 | 20            | Pınarbaşı | Girne |
 | 21            | Çatalköy | Girne |
 | 22            | Alsancak | Girne |
+| 23            | Taşpınar-Bostancı Anayolu | Güzelyurt |
 
 
 ### İlçelere Göre Dağılım
 - **Girne**: 12 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20, 21, 22)
 - **Gazimağusa**: 4 kaza (Kazalar: 2, 3, 10, 15)
 - **Lefkoşa**: 3 kaza (Kazalar: 5, 8, 9)
-- **Güzelyurt**: 2 kaza (Kazalar: 1, 17)
+- **Güzelyurt**: 3 kaza (Kazalar: 1, 17, 23)
 
 ## En Çok Kaza Olan Yerler
 
@@ -114,9 +116,9 @@ Lefkoşa’daki kazalar, genellikle ana yollarda veya şehir merkezine yakın b�
 
 ### Güzelyurt’taki Kazaların Detayları
 Güzelyurt’taki kazalar, ana yollar üzerinde meydana gelmiştir:
-- **Taşpınar-Bostancı**: 1 ölüm (Kaza 1)
+- **Taşpınar-Bostancı**: 2 ölüm (Kaza 1, Kaza 23)
 - **Cengizköy çemberi**: 1 ölüm (tahmini, Kaza 17)
 
 ## Metodoloji
 
-Bu rapor, sağlanan 22 haber bağlantısının detaylı bir incelemesine dayanmaktadır.
+Bu rapor, sağlanan 23 haber bağlantısının detaylı bir incelemesine dayanmaktadır.

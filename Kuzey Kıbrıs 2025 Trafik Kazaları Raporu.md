@@ -4,8 +4,8 @@ Bu rapor, 2025 yılının başlarında Kuzey Kıbrıs’ta meydana gelen ve [Kib
 
 ## Toplam Ölümler
 
-Sağlanan 22 haber bağlantısına göre, trafik kazalarında toplam **25 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
-- **21 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
+Sağlanan 22 haber bağlantısına göre, trafik kazalarında toplam **26 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
+- **22 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
 - **2 kaza**, ikişer ölümle sonuçlanmıştır (toplam 4 kişi).
 
 Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetlemektedir:
@@ -35,7 +35,7 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | 21            | 1                | [Topuz Gazetesi](https://www.topuzgazetesi.com/trafik-kazasinda-agir-yaralanmisti-motosiklet-surucusu-hayatini-kaybetti) |
 | 22            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/girne-alsancak-anayolunda-meydana-gelen-kazada-81-yasindaki-fuat-zorali-oldu/) |
 | 23            | 1                | [TAK](https://x.com/TAKAjansi/status/1947179063832961196) |
-
+| 24            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/bir-olumlu-trafik-kazasi-daha/) |
 
 
 **Not**: 11, 12, 13, 14, 15, 16, 17 ve 19 numaralı kazaların ölüm sayıları, haber başlıklarından (örneğin, “1 kişi”, “bir can” veya tek bir isim) tahmini olarak belirlenmiştir.
@@ -74,11 +74,12 @@ Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 | 21            | Çatalköy | Girne |
 | 22            | Alsancak | Girne |
 | 23            | Taşpınar-Bostancı Anayolu | Güzelyurt |
+| 24            | Gazimağusa-Lefkoşa ana yolu (Korkuteli Kavşağı) | Gazimağusa |
 
 
 ### İlçelere Göre Dağılım
 - **Girne**: 12 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20, 21, 22)
-- **Gazimağusa**: 4 kaza (Kazalar: 2, 3, 10, 15)
+- **Gazimağusa**: 4 kaza (Kazalar: 2, 3, 10, 15, 24)
 - **Lefkoşa**: 3 kaza (Kazalar: 5, 8, 9)
 - **Güzelyurt**: 3 kaza (Kazalar: 1, 17, 23)
 
@@ -107,6 +108,7 @@ Gazimağusa’daki kazalar, ana yollar üzerinde yoğunlaşmıştır:
 - **Ercan-İskele (İskele birinci yol kavşağı)**: 1 ölüm (Kaza 3)
 - **Gazimağusa-Lefkoşa (Çanakkale Göleti)**: 1 ölüm (Kaza 10)
 - **Küçük Erenköy-Tatlısu**: 1 ölüm (tahmini, Kaza 15)
+- **Gazimağusa-Lefkoşa (Korkuteli)**: 1 ölüm (Kaza 24)
 
 ### Lefkoşa’daki Kazaların Detayları
 Lefkoşa’daki kazalar, genellikle ana yollarda veya şehir merkezine yakın bölgelerde gerçekleşmiştir:
@@ -121,4 +123,4 @@ Güzelyurt’taki kazalar, ana yollar üzerinde meydana gelmiştir:
 
 ## Metodoloji
 
-Bu rapor, sağlanan 23 haber bağlantısının detaylı bir incelemesine dayanmaktadır.
+Bu rapor, sağlanan 24 haber bağlantısının detaylı bir incelemesine dayanmaktadır.

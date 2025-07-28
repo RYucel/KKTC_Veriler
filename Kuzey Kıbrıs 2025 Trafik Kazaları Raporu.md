@@ -4,8 +4,8 @@ Bu rapor, 2025 yılının başlarında Kuzey Kıbrıs’ta meydana gelen ve [Kib
 
 ## Toplam Ölümler
 
-Sağlanan 22 haber bağlantısına göre, trafik kazalarında toplam **26 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
-- **22 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
+Sağlanan 25 haber bağlantısına göre, trafik kazalarında toplam **27 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
+- **23 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
 - **2 kaza**, ikişer ölümle sonuçlanmıştır (toplam 4 kişi).
 
 Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetlemektedir:
@@ -36,6 +36,7 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | 22            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/girne-alsancak-anayolunda-meydana-gelen-kazada-81-yasindaki-fuat-zorali-oldu/) |
 | 23            | 1                | [TAK](https://x.com/TAKAjansi/status/1947179063832961196) |
 | 24            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/bir-olumlu-trafik-kazasi-daha/) |
+| 25            | 1                | [Yenidüzen Gazetesi]((https://www.yeniduzen.com/trafige-bir-can-daha-185205h.htm)) |
 
 
 **Not**: 11, 12, 13, 14, 15, 16, 17 ve 19 numaralı kazaların ölüm sayıları, haber başlıklarından (örneğin, “1 kişi”, “bir can” veya tek bir isim) tahmini olarak belirlenmiştir.
@@ -75,17 +76,18 @@ Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 | 22            | Alsancak | Girne |
 | 23            | Taşpınar-Bostancı Anayolu | Güzelyurt |
 | 24            | Gazimağusa-Lefkoşa ana yolu (Korkuteli Kavşağı) | Gazimağusa |
+| 25            | Girne - Tatlısu ana yolu (Korkuteli Kavşağı) | Girne |
 
 
 ### İlçelere Göre Dağılım
-- **Girne**: 12 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20, 21, 22)
+- **Girne**: 12 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20, 21, 22, 25)
 - **Gazimağusa**: 4 kaza (Kazalar: 2, 3, 10, 15, 24)
 - **Lefkoşa**: 3 kaza (Kazalar: 5, 8, 9)
 - **Güzelyurt**: 3 kaza (Kazalar: 1, 17, 23)
 
 ## En Çok Kaza Olan Yerler
 
-**Girne ilçesi**, 12 kaza ile en fazla kazanın meydana geldiği bölge olarak öne çıkmaktadır. Bu durum, Girne’nin yoğun trafiği, turistik aktiviteleri veya yol koşullarından kaynaklanabilir. Gazimağusa 4 kaza ile ikinci sırada yer alırken, Lefkoşa’da 3 ve Güzelyurt’ta 2 kaza rapor edilmiştir.
+**Girne ilçesi**, 14 kaza ile en fazla kazanın meydana geldiği bölge olarak öne çıkmaktadır. Bu durum, Girne’nin yoğun trafiği, turistik aktiviteleri veya yol koşullarından kaynaklanabilir. Gazimağusa 4 kaza ile ikinci sırada yer alırken, Lefkoşa’da 3 ve Güzelyurt’ta 2 kaza rapor edilmiştir.
 
 ### Girne’deki Kazaların Detayları
 Girne’deki kazalar, ilçenin farklı noktalarında meydana gelmiştir:
@@ -101,6 +103,7 @@ Girne’deki kazalar, ilçenin farklı noktalarında meydana gelmiştir:
 - **Pınarbaşı**: 1 ölüm (Kaza 20)
 - **Çatalköy**: 1 ölüm (Kaza 21)
 - **Alsancak**: 1 ölüm (Kaza 22)
+- **Girne - Tatlısu Anayolu**: 1 ölüm (Kaza 25)
 
 ### Gazimağusa’daki Kazaların Detayları
 Gazimağusa’daki kazalar, ana yollar üzerinde yoğunlaşmıştır:

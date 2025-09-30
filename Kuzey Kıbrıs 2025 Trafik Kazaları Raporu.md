@@ -4,8 +4,8 @@ Bu rapor, 2025 yılının başlarında Kuzey Kıbrıs’ta meydana gelen ve [Kib
 
 ## Toplam Ölümler
 
-Sağlanan 29 haber bağlantısına göre, trafik kazalarında toplam **32 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
-- **26 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
+Sağlanan 31 haber bağlantısına göre, trafik kazalarında toplam **34 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
+- **28 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
 - **3 kaza**, ikişer ölümle sonuçlanmıştır (toplam 6 kişi).
 
 Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetlemektedir:
@@ -41,6 +41,8 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | 27            | 1                | [Kıbrıs Gerçek](https://www.kibrisgercek.com/girne-guzelyurt-yolunda-feci-kaza-34-yasindaki-hasan-kapci-hayatini-kaybetti) |
 | 28            | 1                | [Gündem Kıbrıs](https://www.gundemkibris.com/iskele-ercan-yolunda-feci-kaza-2-genc-yasamini-yitirdi) |
 | 29            | 1                | [Kibris Postasi](https://www.kibrispostasi.com/c87-LEFKOSA/n575517-cihangirde-trafik-kazasi-3-arac-carpistigi-kazada-edmund-jonathan-cooke-hayatini-kaybetti) |
+| 30            | 1                | [Yenidüzen Gazetesi](https://www.yeniduzen.com/trafige-bir-can-daha-187236h.htm) |
+| 31            | 1                | [Kibris Ayrinti](https://www.kibrisayrinti.com/dagyolunda-buyuk-kaza-1-kisi-yasamini-yitirdi) |
 
 
 **Not**: 11, 12, 13, 14, 15, 16, 17 ve 19 numaralı kazaların ölüm sayıları, haber başlıklarından (örneğin, “1 kişi”, “bir can” veya tek bir isim) tahmini olarak belirlenmiştir.
@@ -85,18 +87,21 @@ Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 | 27            | Girne-Güzelyurt ana yolu | Girne |
 | 28            | İskele-Ercan yolu | Gazimağusa |
 | 29            | İskele-Ercan yolu | Gazimağusa |
+| 30            | Gazimağusa - Karpaz Anayolu | Gazimağusa |
+| 31            | Girne-Değirmenlik Anayolu | Girne |
+
 
 
 
 ### İlçelere Göre Dağılım
-- **Girne**: 13 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20, 21, 22, 25, 27)
-- **Gazimağusa**: 7 kaza (Kazalar: 2, 3, 10, 15, 24, 26, 28, 29)
+- **Girne**: 16 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20, 21, 22, 25, 27, 31)
+- **Gazimağusa**: 9 kaza (Kazalar: 2, 3, 10, 15, 24, 26, 28, 29, 30)
 - **Lefkoşa**: 3 kaza (Kazalar: 5, 8, 9)
 - **Güzelyurt**: 3 kaza (Kazalar: 1, 17, 23)
 
 ## En Çok Kaza Olan Yerler
 
-**Girne ilçesi**, 14 kaza ile en fazla kazanın meydana geldiği bölge olarak öne çıkmaktadır. Bu durum, Girne’nin yoğun trafiği, turistik aktiviteleri veya yol koşullarından kaynaklanabilir. Gazimağusa 4 kaza ile ikinci sırada yer alırken, Lefkoşa’da 3 ve Güzelyurt’ta 2 kaza rapor edilmiştir.
+**Girne ilçesi**, 16 kaza ile en fazla kazanın meydana geldiği bölge olarak öne çıkmaktadır. Bu durum, Girne’nin yoğun trafiği, turistik aktiviteleri veya yol koşullarından kaynaklanabilir. Gazimağusa 4 kaza ile ikinci sırada yer alırken, Lefkoşa’da 3 ve Güzelyurt’ta 2 kaza rapor edilmiştir.
 
 ### Girne’deki Kazaların Detayları
 Girne’deki kazalar, ilçenin farklı noktalarında meydana gelmiştir:
@@ -107,7 +112,7 @@ Girne’deki kazalar, ilçenin farklı noktalarında meydana gelmiştir:
 - **Girne (genel)**: 2 kaza, her biri 1 ölüm (tahmini, Kazalar 12, 13)
 - **Yenierenköy**: 1 ölüm (tahmini, Kaza 14)
 - **Esentepe**: 1 ölüm (tahmini, Kaza 16)
-- **Girne – Değirmenlik Anayolu**: 2 ölüm (Kaza 18)
+- **Girne – Değirmenlik Anayolu**: 2 kaza, 3 ölüm (Kaza 18, 31)
 - **Minareliköy**: 1 ölüm (tahmini, Kaza 19)
 - **Pınarbaşı**: 1 ölüm (Kaza 20)
 - **Çatalköy**: 1 ölüm (Kaza 21)
@@ -123,8 +128,7 @@ Gazimağusa’daki kazalar, ana yollar üzerinde yoğunlaşmıştır:
 - **Küçük Erenköy-Tatlısu**: 1 ölüm (tahmini, Kaza 15)
 - **Gazimağusa-Lefkoşa (Korkuteli)**: 1 ölüm (Kaza 24)
 - **Ercan – Gaziköy ana yolu**: 1 ölüm (Kaza 26)
-- **İskele – Ercan ana yolu**: 2 ölüm (Kaza 28)
-- - **İskele – Ercan ana yolu**: 1 ölüm (Kaza 29)
+- **İskele – Ercan ana yolu (Karpaz dahil)**: 4 ölüm (Kaza 28, 29, 30)
 
 ### Lefkoşa’daki Kazaların Detayları
 Lefkoşa’daki kazalar, genellikle ana yollarda veya şehir merkezine yakın bölgelerde gerçekleşmiştir:
@@ -139,4 +143,4 @@ Güzelyurt’taki kazalar, ana yollar üzerinde meydana gelmiştir:
 
 ## Metodoloji
 
-Bu rapor, sağlanan 29 haber bağlantısının detaylı bir incelemesine dayanmaktadır.
+Bu rapor, sağlanan 31 haber bağlantısının detaylı bir incelemesine dayanmaktadır.

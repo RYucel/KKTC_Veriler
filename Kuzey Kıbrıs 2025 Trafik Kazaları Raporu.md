@@ -41,7 +41,7 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | 25            | 1                | [Yenidüzen Gazetesi](https://www.yeniduzen.com/trafige-bir-can-daha-185205h.htm) |
 | 26            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/ercan-gazikoy-ana-yolundaki-trafik-kazasinda-1-kisi-yasamini-yitirdi/) |
 | 27            | 1                | [Kıbrıs Gerçek](https://www.kibrisgercek.com/girne-guzelyurt-yolunda-feci-kaza-34-yasindaki-hasan-kapci-hayatini-kaybetti) |
-| 28            | 1                | [Gündem Kıbrıs](https://www.gundemkibris.com/iskele-ercan-yolunda-feci-kaza-2-genc-yasamini-yitirdi) |
+| 28            | 2                | [Gündem Kıbrıs](https://www.gundemkibris.com/iskele-ercan-yolunda-feci-kaza-2-genc-yasamini-yitirdi) |
 | 29            | 1                | [Kibris Postasi](https://www.kibrispostasi.com/c87-LEFKOSA/n575517-cihangirde-trafik-kazasi-3-arac-carpistigi-kazada-edmund-jonathan-cooke-hayatini-kaybetti) |
 | 30            | 1                | [Yenidüzen Gazetesi](https://www.yeniduzen.com/trafige-bir-can-daha-187236h.htm) |
 | 31            | 1                | [Kibris Ayrinti](https://www.kibrisayrinti.com/dagyolunda-buyuk-kaza-1-kisi-yasamini-yitirdi) |

@@ -2,12 +2,12 @@
 
 Bu rapor, 2025 yılının başlarında Kuzey Kıbrıs'ta meydana gelen ve [Kibris Gazetesi](https://kibrisgazetesi.com/), [Haber Kibris](https://haberkibris.com/) ve [Yeni Bakis Gazetesi](https://yenibakisgazetesi.com/) gibi kaynaklarda yayınlanan trafik kazalarına ilişkin detaylı bir analiz sunmaktadır. Rapor, toplam ölen kişi sayısını, kazaların meydana geldiği yerleri ve en çok kaza olan bölgeleri ele almakta olup, kullanıcı tarafından sağlanan konum düzeltmeleri dikkate alınmıştır.
 
-**Son Güncelleme**: 21 Ekim 2025
+**Son Güncelleme**: 25 Ekim 2025
 
 ## Toplam Ölümler
 
-Sağlanan 33 haber bağlantısına göre, trafik kazalarında toplam **36 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
-- **30 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
+Sağlanan 34 haber bağlantısına göre, trafik kazalarında toplam **37 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
+- **31 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
 - **3 kaza**, ikişer ölümle sonuçlanmıştır (toplam 6 kişi).
 
 Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetlemektedir:
@@ -47,6 +47,7 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | 31            | 1                | [Kibris Ayrinti](https://www.kibrisayrinti.com/dagyolunda-buyuk-kaza-1-kisi-yasamini-yitirdi) |
 | 32            | 1                | [BRTK](https://brtk.net/lefkosada-feci-kaza-1-kisi-hayatini-kaybetti/) |
 | 33            | 1                | [Kibris Postasi](https://www.kibrispostasi.com/c87-LEFKOSA/n579306-lefkosaguzelyurt-ana-yolunda-kaza-19-yasindaki-emir-berkin-gunhan-agir-yaralandi) |
+| 34            | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/olumlu-kazada-isimler-aciklandi/) |
 
 **Not**: 11, 12, 13, 14, 15, 16, 17 ve 19 numaralı kazaların ölüm sayıları, haber başlıklarından (örneğin, "1 kişi", "bir can" veya tek bir isim) tahmini olarak belirlenmiştir.
 
@@ -94,16 +95,17 @@ Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 | 31            | Girne-Değirmenlik Anayolu | Girne |
 | 32            | Kermiya | Lefkoşa |
 | 33            | Lefkoşa-Güzelyurt ana yolu (Serhatköy mevkii) | Güzelyurt |
+| 34            | İskele-Ercan ana yolu (Gönendere Kavşağı) | Gazimağusa |
 
 ### İlçelere Göre Dağılım
 - **Girne**: 16 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20, 21, 22, 25, 27, 31)
-- **Gazimağusa**: 9 kaza (Kazalar: 2, 3, 10, 15, 24, 26, 28, 29, 30)
+- **Gazimağusa**: 10 kaza (Kazalar: 2, 3, 10, 15, 24, 26, 28, 29, 30, 34)
 - **Lefkoşa**: 4 kaza (Kazalar: 5, 8, 9, 32)
 - **Güzelyurt**: 4 kaza (Kazalar: 1, 17, 23, 33)
 
 ## En Çok Kaza Olan Yerler
 
-**Girne ilçesi**, 16 kaza ile en fazla kazanın meydana geldiği bölge olarak öne çıkmaktadır. Bu durum, Girne'nin yoğun trafiği, turistik aktiviteleri veya yol koşullarından kaynaklanabilir. Gazimağusa 9 kaza ile ikinci sırada yer alırken, Lefkoşa ve Güzelyurt'ta 4'er kaza rapor edilmiştir.
+**Girne ilçesi**, 16 kaza ile en fazla kazanın meydana geldiği bölge olarak öne çıkmaktadır. Bu durum, Girne'nin yoğun trafiği, turistik aktiviteleri veya yol koşullarından kaynaklanabilir. Gazimağusa 10 kaza ile ikinci sırada yer alırken, Lefkoşa ve Güzelyurt'ta 4'er kaza rapor edilmiştir.
 
 ### Girne'deki Kazaların Detayları
 Girne'deki kazalar, ilçenin farklı noktalarında meydana gelmiştir:
@@ -130,7 +132,7 @@ Gazimağusa'daki kazalar, ana yollar üzerinde yoğunlaşmıştır:
 - **Küçük Erenköy-Tatlısu**: 1 ölüm (tahmini, Kaza 15)
 - **Gazimağusa-Lefkoşa (Korkuteli)**: 1 ölüm (Kaza 24)
 - **Ercan – Gaziköy ana yolu**: 1 ölüm (Kaza 26)
-- **İskele – Ercan ana yolu (Karpaz dahil)**: 4 ölüm (Kaza 28, 29, 30)
+- **İskele – Ercan ana yolu**: 5 ölüm (Kaza 28, 29, 30, 34 - Gönendere Kavşağı ve Karpaz dahil)
 
 ### Lefkoşa'daki Kazaların Detayları
 Lefkoşa'daki kazalar, genellikle ana yollarda veya şehir merkezine yakın bölgelerde gerçekleşmiştir:
@@ -148,12 +150,22 @@ Güzelyurt'taki kazalar, ana yollar üzerinde meydana gelmiştir:
 ## Önemli Gözlemler
 
 ### Kritik Yollar
-Raporda iki ana yol öne çıkmaktadır:
-1. **Lefkoşa-Güzelyurt ana yolu**: 3 ölüm (Kaza 8, 17, 33) - Bu yolda tekrarlayan kazalar görülmektedir.
-2. **İskele-Ercan yolu**: 4 ölüm (Kaza 28, 29, 30) - Gazimağusa'da yüksek risk taşıyan bir güzergah.
+Raporda öne çıkan yüksek riskli yollar:
+1. **İskele-Ercan ana yolu**: 5 ölüm (Kaza 28, 29, 30, 34) - Gazimağusa'da en yüksek risk taşıyan güzergah. Gönendere Kavşağı'nda son kazanın meydana gelmesi bu bölgenin tehlikesini vurgulamaktadır.
+2. **Lefkoşa-Güzelyurt ana yolu**: 3 ölüm (Kaza 8, 17, 33) - Bu yolda tekrarlayan kazalar görülmektedir.
+3. **Girne-Değirmenlik Anayolu**: 3 ölüm (Kaza 18, 31) - İki ayrı kazada 3 kişi hayatını kaybetmiştir.
 
 ### Yaş Profili
-Son eklenen kazada (Kaza 33), 19 yaşındaki genç bir sürücünün hayatını kaybetmesi, genç sürücüler arasındaki risk faktörlerine dikkat çekmektedir.
+- Son eklenen kazada (Kaza 34), 41 yaşındaki Raşit Tekin hayatını kaybetmiştir.
+- Kaza 33'te 19 yaşındaki genç bir sürücünün hayatını kaybetmesi, genç sürücüler arasındaki risk faktörlerine dikkat çekmektedir.
+
+### Son Kaza Detayları (Kaza 34)
+25 Ekim 2025 sabahı saat 09:00'da İskele-Ercan Anayolu üzerinde Gönendere Kavşağı'nda meydana gelen kazada:
+- Üç araç karışmıştır
+- 41 yaşındaki Raşit Tekin (VZ 612 plakalı araç sürücüsü) olay yerinde hayatını kaybetmiştir
+- İki kişi yaralanmıştır
+- Kazaya neden olan sürücü Arslan Ayamuradov (37 yaşında) tutuklanmıştır
+- Kaza nedeni: Hızını düşürmeyen ve dikkatsiz seyreden sürücünün kontrolsüzce manevra yapması
 
 ## Yıllar İçinde Karşılaştırmalı Analiz (2010-2025)
 
@@ -176,15 +188,15 @@ Aşağıdaki tablo, Kuzey Kıbrıs ve Güney Kıbrıs'ta 2010-2025 yılları ara
 | 2022 | 24                | 37                        |
 | 2023 | 47                | 34                        |
 | 2024 | 50                | 41                        |
-| 2025 | 36                | 26                        |
+| 2025 | 37                | 26                        |
 
 ### Önemli Bulgular:
 - **2024 yılı**, KKTC için 2010-2025 döneminde en yüksek ölüm sayısının kaydedildiği yıl olmuştur (50 ölüm).
-- **2025 yılında** (Ekim ayı itibariyle) 36 kişi hayatını kaybetmiştir. Yıl sonuna kadar bu rakamın artması beklenmektedir.
+- **2025 yılında** (Ekim ayı sonu itibariyle) 37 kişi hayatını kaybetmiştir. Yıl sonuna kadar bu rakamın artması beklenmektedir ve 2024 yılı rekoruna yaklaşma riski bulunmaktadır.
 - **2022 ve 2018 yılları**, KKTC'de en düşük ölüm oranlarının görüldüğü yıllar olmuştur (24 ölüm).
 - **Güney Kıbrıs'ta** trafik ölümlerinde 2010'dan bu yana genel bir azalma trendi gözlenmektedir (2010: 60 → 2025: 26).
-- **KKTC'de** son yıllarda (2023-2024) trafik ölümlerinde belirgin bir artış yaşanmıştır.
+- **KKTC'de** son yıllarda (2023-2025) trafik ölümlerinde belirgin bir artış yaşanmaktadır. 2025 yılı henüz bitmemesine rağmen 37 ölümle endişe verici bir seviyededir.
 
 ## Metodoloji
 
-Bu rapor, sağlanan 33 haber bağlantısının detaylı bir incelemesine dayanmaktadır. Son güncelleme 21 Ekim 2025 tarihinde Lefkoşa-Güzelyurt ana yolunda meydana gelen ve 19 yaşındaki Emir Berkin Günhan'ın hayatını kaybettiği kazanın eklenmesiyle yapılmıştır.
+Bu rapor, sağlanan 34 haber bağlantısının detaylı bir incelemesine dayanmaktadır. Son güncelleme 25 Ekim 2025 tarihinde İskele-Ercan Anayolu üzerinde Gönendere Kavşağı'nda meydana gelen ve 41 yaşındaki Raşit Tekin'in hayatını kaybettiği kazanın eklenmesiyle yapılmıştır.

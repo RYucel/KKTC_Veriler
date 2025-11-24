@@ -2,13 +2,15 @@
 
 Bu rapor, 2025 yılının başlarında Kuzey Kıbrıs'ta meydana gelen ve [Kibris Gazetesi](https://kibrisgazetesi.com/), [Haber Kibris](https://haberkibris.com/) ve [Yeni Bakis Gazetesi](https://yenibakisgazetesi.com/) gibi kaynaklarda yayınlanan trafik kazalarına ilişkin detaylı bir analiz sunmaktadır. Rapor, toplam ölen kişi sayısını, kazaların meydana geldiği yerleri ve en çok kaza olan bölgeleri ele almakta olup, kullanıcı tarafından sağlanan konum düzeltmeleri dikkate alınmıştır.
 
-**Son Güncelleme**: 25 Ekim 2025
+**Son Güncelleme**: 26 Ekim 2025
 
 ## Toplam Ölümler
 
-Sağlanan 34 haber bağlantısına göre, trafik kazalarında toplam **37 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
-- **31 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
+Sağlanan 35 haber bağlantısına göre, trafik kazalarında toplam **38 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
+- **32 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
 - **3 kaza**, ikişer ölümle sonuçlanmıştır (toplam 6 kişi).
+
+**Not**: Yenidüzen Gazetesi'nin 26 Ekim 2025 tarihli haberine göre, 2025 yılında toplam 36 trafik kazasında 39 kişi hayatını kaybetmiştir. Bu rapordaki 35 kaza ile 38 ölüm sayısı arasındaki fark, bazı kazaların henüz raporumuza eklenmemiş olmasından kaynaklanmaktadır.
 
 Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetlemektedir:
 
@@ -48,6 +50,7 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | 32            | 1                | [BRTK](https://brtk.net/lefkosada-feci-kaza-1-kisi-hayatini-kaybetti/) |
 | 33            | 1                | [Kibris Postasi](https://www.kibrispostasi.com/c87-LEFKOSA/n579306-lefkosaguzelyurt-ana-yolunda-kaza-19-yasindaki-emir-berkin-gunhan-agir-yaralandi) |
 | 34            | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/olumlu-kazada-isimler-aciklandi/) |
+| 35            | 1                | [Yenidüzen Gazetesi](https://www.yeniduzen.com/arac-ile-motosiklet-carpisti-bir-kisi-hayatini-kaybetti-189182h.htm) |
 
 **Not**: 11, 12, 13, 14, 15, 16, 17 ve 19 numaralı kazaların ölüm sayıları, haber başlıklarından (örneğin, "1 kişi", "bir can" veya tek bir isim) tahmini olarak belirlenmiştir.
 
@@ -96,16 +99,17 @@ Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 | 32            | Kermiya | Lefkoşa |
 | 33            | Lefkoşa-Güzelyurt ana yolu (Serhatköy mevkii) | Güzelyurt |
 | 34            | İskele-Ercan ana yolu (Gönendere Kavşağı) | Gazimağusa |
+| 35            | Kuzey Sahil Yolu (Ziyamet-Balalan, Yudi Dağı mevkii) | Gazimağusa |
 
 ### İlçelere Göre Dağılım
 - **Girne**: 16 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20, 21, 22, 25, 27, 31)
-- **Gazimağusa**: 10 kaza (Kazalar: 2, 3, 10, 15, 24, 26, 28, 29, 30, 34)
+- **Gazimağusa**: 11 kaza (Kazalar: 2, 3, 10, 15, 24, 26, 28, 29, 30, 34, 35)
 - **Lefkoşa**: 4 kaza (Kazalar: 5, 8, 9, 32)
 - **Güzelyurt**: 4 kaza (Kazalar: 1, 17, 23, 33)
 
 ## En Çok Kaza Olan Yerler
 
-**Girne ilçesi**, 16 kaza ile en fazla kazanın meydana geldiği bölge olarak öne çıkmaktadır. Bu durum, Girne'nin yoğun trafiği, turistik aktiviteleri veya yol koşullarından kaynaklanabilir. Gazimağusa 10 kaza ile ikinci sırada yer alırken, Lefkoşa ve Güzelyurt'ta 4'er kaza rapor edilmiştir.
+**Girne ilçesi**, 16 kaza ile en fazla kazanın meydana geldiği bölge olarak öne çıkmaktadır. Bu durum, Girne'nin yoğun trafiği, turistik aktiviteleri veya yol koşullarından kaynaklanabilir. Gazimağusa 11 kaza ile ikinci sırada yer alırken, Lefkoşa ve Güzelyurt'ta 4'er kaza rapor edilmiştir.
 
 ### Girne'deki Kazaların Detayları
 Girne'deki kazalar, ilçenin farklı noktalarında meydana gelmiştir:
@@ -133,6 +137,7 @@ Gazimağusa'daki kazalar, ana yollar üzerinde yoğunlaşmıştır:
 - **Gazimağusa-Lefkoşa (Korkuteli)**: 1 ölüm (Kaza 24)
 - **Ercan – Gaziköy ana yolu**: 1 ölüm (Kaza 26)
 - **İskele – Ercan ana yolu**: 5 ölüm (Kaza 28, 29, 30, 34 - Gönendere Kavşağı ve Karpaz dahil)
+- **Kuzey Sahil Yolu (Ziyamet-Balalan, Yudi Dağı)**: 1 ölüm (Kaza 35)
 
 ### Lefkoşa'daki Kazaların Detayları
 Lefkoşa'daki kazalar, genellikle ana yollarda veya şehir merkezine yakın bölgelerde gerçekleşmiştir:
@@ -154,18 +159,22 @@ Raporda öne çıkan yüksek riskli yollar:
 1. **İskele-Ercan ana yolu**: 5 ölüm (Kaza 28, 29, 30, 34) - Gazimağusa'da en yüksek risk taşıyan güzergah. Gönendere Kavşağı'nda son kazanın meydana gelmesi bu bölgenin tehlikesini vurgulamaktadır.
 2. **Lefkoşa-Güzelyurt ana yolu**: 3 ölüm (Kaza 8, 17, 33) - Bu yolda tekrarlayan kazalar görülmektedir.
 3. **Girne-Değirmenlik Anayolu**: 3 ölüm (Kaza 18, 31) - İki ayrı kazada 3 kişi hayatını kaybetmiştir.
+4. **Kuzey Sahil Yolu**: 1 ölüm (Kaza 35) - Yudi Dağı mevkiinde virajlı yolda meydana gelen kaza.
+
+### Motosiklet Kazaları
+35 kazanın önemli bir kısmı motosiklet kazalarıdır. En son kaza (Kaza 35) da bir motosiklet kazasıdır ve motosiklet sürücüsü Alpaslan Tok'un virajda direksiyon hakimiyetini kaybetmesi sonucu meydana gelmiştir.
 
 ### Yaş Profili
-- Son eklenen kazada (Kaza 34), 41 yaşındaki Raşit Tekin hayatını kaybetmiştir.
+- Son eklenen kazada (Kaza 35), motosiklet sürücüsü Alpaslan Tok hayatını kaybetmiştir.
+- Kaza 34'te 41 yaşındaki Raşit Tekin hayatını kaybetmiştir.
 - Kaza 33'te 19 yaşındaki genç bir sürücünün hayatını kaybetmesi, genç sürücüler arasındaki risk faktörlerine dikkat çekmektedir.
 
-### Son Kaza Detayları (Kaza 34)
-25 Ekim 2025 sabahı saat 09:00'da İskele-Ercan Anayolu üzerinde Gönendere Kavşağı'nda meydana gelen kazada:
-- Üç araç karışmıştır
-- 41 yaşındaki Raşit Tekin (VZ 612 plakalı araç sürücüsü) olay yerinde hayatını kaybetmiştir
-- İki kişi yaralanmıştır
-- Kazaya neden olan sürücü Arslan Ayamuradov (37 yaşında) tutuklanmıştır
-- Kaza nedeni: Hızını düşürmeyen ve dikkatsiz seyreden sürücünün kontrolsüzce manevra yapması
+### Son Kaza Detayları (Kaza 35)
+26 Ekim 2025 öğleden sonra saat 14:50'de Kuzey Sahil Yolu'nun Ziyamet-Balalan çemberleri arasındaki Yudi Dağı mevkiinde meydana gelen kazada:
+- Motosiklet ile jeep aracı çarpışmıştır
+- Alpaslan Tok (ZN 453 plakalı motosiklet sürücüsü) olay yerinde hayatını kaybetmiştir
+- Dikkatsizlik sonucu sola meyilli viraja geldiğinde direksiyon hakimiyetini kaybederek karşı istikametten gelen jeep'e çarpmıştır
+- Jeep sürücüsü Andreas Voskou ve iki yolcusu (Maria Voskou, Panayodis Voskou) yaralanarak Gazimağusa Devlet Hastanesi'nde tedavi görmektedir
 
 ## Yıllar İçinde Karşılaştırmalı Analiz (2010-2025)
 
@@ -188,15 +197,19 @@ Aşağıdaki tablo, Kuzey Kıbrıs ve Güney Kıbrıs'ta 2010-2025 yılları ara
 | 2022 | 24                | 37                        |
 | 2023 | 47                | 34                        |
 | 2024 | 50                | 41                        |
-| 2025 | 37                | 26                        |
+| 2025 | 38-39*            | 26                        |
+
+*Yenidüzen Gazetesi'nin 26 Ekim 2025 tarihli haberine göre, 2025 yılında 36 trafik kazasında toplam 39 kişi hayatını kaybetmiştir. Bu raporda 35 kaza ve 38 ölüm belgelenmiştir.
 
 ### Önemli Bulgular:
 - **2024 yılı**, KKTC için 2010-2025 döneminde en yüksek ölüm sayısının kaydedildiği yıl olmuştur (50 ölüm).
-- **2025 yılında** (Ekim ayı sonu itibariyle) 37 kişi hayatını kaybetmiştir. Yıl sonuna kadar bu rakamın artması beklenmektedir ve 2024 yılı rekoruna yaklaşma riski bulunmaktadır.
+- **2025 yılında** (Ekim ayı sonu itibariyle) 38-39 kişi hayatını kaybetmiştir. Yıl sonuna kadar bu rakamın artması beklenmektedir ve 2024 yılı rekoruna yaklaşma riski bulunmaktadır.
 - **2022 ve 2018 yılları**, KKTC'de en düşük ölüm oranlarının görüldüğü yıllar olmuştur (24 ölüm).
 - **Güney Kıbrıs'ta** trafik ölümlerinde 2010'dan bu yana genel bir azalma trendi gözlenmektedir (2010: 60 → 2025: 26).
-- **KKTC'de** son yıllarda (2023-2025) trafik ölümlerinde belirgin bir artış yaşanmaktadır. 2025 yılı henüz bitmemesine rağmen 37 ölümle endişe verici bir seviyededir.
+- **KKTC'de** son yıllarda (2023-2025) trafik ölümlerinde belirgin bir artış yaşanmaktadır. 2025 yılı henüz bitmemesine rağmen 38-39 ölümle endişe verici bir seviyededir.
 
 ## Metodoloji
 
-Bu rapor, sağlanan 34 haber bağlantısının detaylı bir incelemesine dayanmaktadır. Son güncelleme 25 Ekim 2025 tarihinde İskele-Ercan Anayolu üzerinde Gönendere Kavşağı'nda meydana gelen ve 41 yaşındaki Raşit Tekin'in hayatını kaybettiği kazanın eklenmesiyle yapılmıştır.
+Bu rapor, sağlanan 35 haber bağlantısının detaylı bir incelemesine dayanmaktadır. Son güncelleme 26 Ekim 2025 tarihinde Kuzey Sahil Yolu'nda Yudi Dağı mevkiinde meydana gelen ve motosiklet sürücüsü Alpaslan Tok'un hayatını kaybettiği kazanın eklenmesiyle yapılmıştır.
+
+Yenidüzen Gazetesi'nin raporuna göre, 2025 yılında toplam 36 trafik kazasında 39 kişi hayatını kaybetmiştir, ancak bu raporda 35 kaza belgelenmiştir. Aradaki fark, bazı kazaların henüz medya kaynaklarında detaylı olarak yer almamasından veya rapor kapsamına dahil edilmemiş olmasından kaynaklanmaktadır.

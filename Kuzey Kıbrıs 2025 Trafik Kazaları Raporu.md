@@ -102,7 +102,7 @@ Aşağıdaki tablo, Kuzey Kıbrıs ve Güney Kıbrıs'ta trafik kazalarında hay
 | 2022 | 24                | 37                        |
 | 2023 | 47                | 34                        |
 | 2024 | 50                | 41                        |
-| 2025 | 39                | 26                        |
+| 2025 | 39                | 48                        |
 | **2026** | **1***                | -                        |
 
 *2026 verisi 2 Şubat 2026 itibarıyladır.

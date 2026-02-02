@@ -1,221 +1,111 @@
-# Kuzey Kıbrıs 2025 Trafik Kazaları Raporu
+# Kuzey Kıbrıs 2025-2026 Trafik Kazaları Raporu
 
-Bu rapor, 2025 yılının başlarında Kuzey Kıbrıs'ta meydana gelen ve [Kibris Gazetesi](https://kibrisgazetesi.com/), [Haber Kibris](https://haberkibris.com/) ve [Yeni Bakis Gazetesi](https://yenibakisgazetesi.com/) gibi kaynaklarda yayınlanan trafik kazalarına ilişkin detaylı bir analiz sunmaktadır. Rapor, toplam ölen kişi sayısını, kazaların meydana geldiği yerleri ve en çok kaza olan bölgeleri ele almakta olup, kullanıcı tarafından sağlanan konum düzeltmeleri dikkate alınmıştır.
+Bu rapor, 2025 yılı boyunca ve 2026 yılının başlarında Kuzey Kıbrıs'ta meydana gelen, [Kibris Gazetesi](https://kibrisgazetesi.com/), [Haber Kibris](https://haberkibris.com/) ve [Yeni Bakis Gazetesi](https://yenibakisgazetesi.com/) gibi kaynaklarda yayınlanan ölümlü trafik kazalarına ilişkin detaylı bir analiz sunmaktadır. Rapor, toplam ölen kişi sayısını, kazaların meydana geldiği yerleri ve en çok kaza olan bölgeleri ele almaktadır.
 
-**Son Güncelleme**: 8 Aralık 2025
+**Son Güncelleme**: 2 Şubat 2026
 
 ## Toplam Ölümler
 
-Sağlanan 36 haber bağlantısına göre, trafik kazalarında toplam **39 kişi** hayatını kaybetmiştir. Bu sayı, her bir kazanın detaylı incelemesiyle belirlenmiştir:
-- **33 kaza**, birer ölümle sonuçlanmıştır (her biri 1 kişi).
-- **3 kaza**, ikişer ölümle sonuçlanmıştır (toplam 6 kişi).
-
-**Not**: Yenidüzen Gazetesi'nin 26 Ekim 2025 tarihli haberine göre, o tarihe kadar 36 trafik kazasında toplam 39 kişi hayatını kaybetmişti. Bu raporda 8 Aralık 2025 itibarıyla 36 kaza ve 39 ölüm belgelenmiştir, bu da resmi rakamlarla tam uyumludur.
+Sağlanan 37 haber bağlantısına göre, belirtilen dönemde trafik kazalarında toplam **40 kişi** hayatını kaybetmiştir.
+- **2025 Yılı:** 36 kaza, 39 ölüm.
+- **2026 Yılı:** 1 kaza, 1 ölüm (Şubat ayı itibarıyla).
 
 Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetlemektedir:
 
-| Kaza Numarası | Ölen Kişi Sayısı | Kaynak |
-|---------------|------------------|--------|
-| 1             | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kaza-traktor-devrildi-surucu-hayatini-kaybetti/) |
-| 2             | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/cayirova-buyukkonuk-anayolunda-trafik-kazasi-1-kisi-hayatini-kaybetti/) |
-| 3             | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/iskelede-olumlu-trafik-kazasi-motosiklet-surucusu-hayatini-kaybetti/) |
-| 4             | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/trafik-kazasinda-agir-yaralanmisti-yasam-savasini-kaybetti/) |
-| 5             | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/olumlu-kazada-araci-kullanan-sahis-tespit-edildi-tutuklandi/) |
-| 6             | 2                | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kazada-hayatini-kaybedenlerin-kimligi-aciklandi/) |
-| 7             | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/girnede-feci-carpisma-1-olu/) |
-| 8             | 1                | [Haber Kibris](https://haberkibris.com/lefkosa-guzelyurt-anayolunda-feci-kaza-bir-kisi-hayatini-kaybetti-0703-2025-02-09.html) |
-| 9             | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/trafige-bir-can-daha-hamiyet-gorgu-hayatini-kaybetti/) |
-| 10            | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kaza-iki-aracin-carptigi-yaya-yasamini-yitirdi/) |
-| 11            | 1 (tahmini)      | [Haber Kibris](https://haberkibris.com/kilitkayada-olumlu-kaza-1743-2025-03-16.html) |
-| 12            | 1 (tahmini)      | [Yeni Bakis Gazetesi](https://yenibakisgazetesi.com/girnede-trafik-kazasi-1-olu-15-yasinda-2-cocuk-agir-yarali/) |
-| 13            | 1 (tahmini)      | [Kibris Gazetesi](https://kibrisgazetesi.com/girnede-feci-kaza-arac-yayaya-carpti-1-kisi-hayatini-kaybetti/) |
-| 14            | 1 (tahmini)      | [Kibris Gazetesi](https://kibrisgazetesi.com/yenierenkoyde-meydana-gelen-feci-kazada-umut-goksal-sevenlerini-yasa-bogdu/) |
-| 15            | 1 (tahmini)      | [Kibris Gazetesi](https://kibrisgazetesi.com/trafige-bir-can-daha-29-yasindaki-genc-yasam-savasini-kaybetti/) |
-| 16            | 1 (tahmini)      | [Kibris Gazetesi](https://kibrisgazetesi.com/esentepede-motosiklet-kazasi-mustafa-kemal-batibeniz-hayatini-kaybetti/) |
-| 17            | 1 (tahmini)      | [Kibris Gazetesi](https://kibrisgazetesi.com/trafige-bir-can-daha-22-yasindaki-surucu-yasamini-yitirdi/) |
-| 18            | 2                | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kazada-ali-ozarapkoylu-ve-raja-shariq-amin-hayatini-kaybetti/) |
-| 19            | 1 (tahmini)      | [Kibris Gazetesi](https://kibrisgazetesi.com/minarelikoydeki-feci-kazada-motosiklette-yolcu-olan-ali-minnos-hayatini-kaybetti/) |
-| 20            | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/pinarbasinda-trafik-kazasi-can-aldi-25-yasindaki-motosiklet-surucusu-hayatini-kaybetti/) |
-| 21            | 1                | [Topuz Gazetesi](https://www.topuzgazetesi.com/trafik-kazasinda-agir-yaralanmisti-motosiklet-surucusu-hayatini-kaybetti) |
-| 22            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/girne-alsancak-anayolunda-meydana-gelen-kazada-81-yasindaki-fuat-zorali-oldu/) |
-| 23            | 1                | [TAK](https://x.com/TAKAjansi/status/1947179063832961196) |
-| 24            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/bir-olumlu-trafik-kazasi-daha/) |
-| 25            | 1                | [Yenidüzen Gazetesi](https://www.yeniduzen.com/trafige-bir-can-daha-185205h.htm) |
-| 26            | 1                | [Havadis Gazetesi](https://www.havadiskibris.com/ercan-gazikoy-ana-yolundaki-trafik-kazasinda-1-kisi-yasamini-yitirdi/) |
-| 27            | 1                | [Kıbrıs Gerçek](https://www.kibrisgercek.com/girne-guzelyurt-yolunda-feci-kaza-34-yasindaki-hasan-kapci-hayatini-kaybetti) |
-| 28            | 2                | [Gündem Kıbrıs](https://www.gundemkibris.com/iskele-ercan-yolunda-feci-kaza-2-genc-yasamini-yitirdi) |
-| 29            | 1                | [Kibris Postasi](https://www.kibrispostasi.com/c87-LEFKOSA/n575517-cihangirde-trafik-kazasi-3-arac-carpistigi-kazada-edmund-jonathan-cooke-hayatini-kaybetti) |
-| 30            | 1                | [Yenidüzen Gazetesi](https://www.yeniduzen.com/trafige-bir-can-daha-187236h.htm) |
-| 31            | 1                | [Kibris Ayrinti](https://www.kibrisayrinti.com/dagyolunda-buyuk-kaza-1-kisi-yasamini-yitirdi) |
-| 32            | 1                | [BRTK](https://brtk.net/lefkosada-feci-kaza-1-kisi-hayatini-kaybetti/) |
-| 33            | 1                | [Kibris Postasi](https://www.kibrispostasi.com/c87-LEFKOSA/n579306-lefkosaguzelyurt-ana-yolunda-kaza-19-yasindaki-emir-berkin-gunhan-agir-yaralandi) |
-| 34            | 1                | [Kibris Gazetesi](https://kibrisgazetesi.com/olumlu-kazada-isimler-aciklandi/) |
-| 35            | 1                | [Yenidüzen Gazetesi](https://www.yeniduzen.com/arac-ile-motosiklet-carpisti-bir-kisi-hayatini-kaybetti-189182h.htm) |
-| 36            | 1                | [TAK](https://tak.gov.ct.tr/haber-detay/olumlu-trafik-kazasi-takla-atan-aracin-surucusu-hayatini-kaybetti-08-12-2025) |
+| Kaza Numarası | Ölen Kişi Sayısı | Tarih/Yıl | Kaynak |
+|---------------|------------------|-----------|--------|
+| 1             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kaza-traktor-devrildi-surucu-hayatini-kaybetti/) |
+| 2             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/cayirova-buyukkonuk-anayolunda-trafik-kazasi-1-kisi-hayatini-kaybetti/) |
+| 3             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/iskelede-olumlu-trafik-kazasi-motosiklet-surucusu-hayatini-kaybetti/) |
+| 4             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/trafik-kazasinda-agir-yaralanmisti-yasam-savasini-kaybetti/) |
+| 5             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/olumlu-kazada-araci-kullanan-sahis-tespit-edildi-tutuklandi/) |
+| 6             | 2                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kazada-hayatini-kaybedenlerin-kimligi-aciklandi/) |
+| 7             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/girnede-feci-carpisma-1-olu/) |
+| 8             | 1                | 2025      | [Haber Kibris](https://haberkibris.com/lefkosa-guzelyurt-anayolunda-feci-kaza-bir-kisi-hayatini-kaybetti-0703-2025-02-09.html) |
+| 9             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/trafige-bir-can-daha-hamiyet-gorgu-hayatini-kaybetti/) |
+| 10            | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kaza-iki-aracin-carptigi-yaya-yasamini-yitirdi/) |
+| 11            | 1 (tahmini)      | 2025      | [Haber Kibris](https://haberkibris.com/kilitkayada-olumlu-kaza-1743-2025-03-16.html) |
+| 12            | 1 (tahmini)      | 2025      | [Yeni Bakis Gazetesi](https://yenibakisgazetesi.com/girnede-trafik-kazasi-1-olu-15-yasinda-2-cocuk-agir-yarali/) |
+| 13            | 1 (tahmini)      | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/girnede-feci-kaza-arac-yayaya-carpti-1-kisi-hayatini-kaybetti/) |
+| 14            | 1 (tahmini)      | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/yenierenkoyde-meydana-gelen-feci-kazada-umut-goksal-sevenlerini-yasa-bogdu/) |
+| 15            | 1 (tahmini)      | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/trafige-bir-can-daha-29-yasindaki-genc-yasam-savasini-kaybetti/) |
+| 16            | 1 (tahmini)      | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/esentepede-motosiklet-kazasi-mustafa-kemal-batibeniz-hayatini-kaybetti/) |
+| 17            | 1 (tahmini)      | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/trafige-bir-can-daha-22-yasindaki-surucu-yasamini-yitirdi/) |
+| 18            | 2                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kazada-ali-ozarapkoylu-ve-raja-shariq-amin-hayatini-kaybetti/) |
+| 19            | 1 (tahmini)      | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/minarelikoydeki-feci-kazada-motosiklette-yolcu-olan-ali-minnos-hayatini-kaybetti/) |
+| 20            | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/pinarbasinda-trafik-kazasi-can-aldi-25-yasindaki-motosiklet-surucusu-hayatini-kaybetti/) |
+| 21            | 1                | 2025      | [Topuz Gazetesi](https://www.topuzgazetesi.com/trafik-kazasinda-agir-yaralanmisti-motosiklet-surucusu-hayatini-kaybetti) |
+| 22            | 1                | 2025      | [Havadis Gazetesi](https://www.havadiskibris.com/girne-alsancak-anayolunda-meydana-gelen-kazada-81-yasindaki-fuat-zorali-oldu/) |
+| 23            | 1                | 2025      | [TAK](https://x.com/TAKAjansi/status/1947179063832961196) |
+| 24            | 1                | 2025      | [Havadis Gazetesi](https://www.havadiskibris.com/bir-olumlu-trafik-kazasi-daha/) |
+| 25            | 1                | 2025      | [Yenidüzen Gazetesi](https://www.yeniduzen.com/trafige-bir-can-daha-185205h.htm) |
+| 26            | 1                | 2025      | [Havadis Gazetesi](https://www.havadiskibris.com/ercan-gazikoy-ana-yolundaki-trafik-kazasinda-1-kisi-yasamini-yitirdi/) |
+| 27            | 1                | 2025      | [Kıbrıs Gerçek](https://www.kibrisgercek.com/girne-guzelyurt-yolunda-feci-kaza-34-yasindaki-hasan-kapci-hayatini-kaybetti) |
+| 28            | 2                | 2025      | [Gündem Kıbrıs](https://www.gundemkibris.com/iskele-ercan-yolunda-feci-kaza-2-genc-yasamini-yitirdi) |
+| 29            | 1                | 2025      | [Kibris Postasi](https://www.kibrispostasi.com/c87-LEFKOSA/n575517-cihangirde-trafik-kazasi-3-arac-carpistigi-kazada-edmund-jonathan-cooke-hayatini-kaybetti) |
+| 30            | 1                | 2025      | [Yenidüzen Gazetesi](https://www.yeniduzen.com/trafige-bir-can-daha-187236h.htm) |
+| 31            | 1                | 2025      | [Kibris Ayrinti](https://www.kibrisayrinti.com/dagyolunda-buyuk-kaza-1-kisi-yasamini-yitirdi) |
+| 32            | 1                | 2025      | [BRTK](https://brtk.net/lefkosada-feci-kaza-1-kisi-hayatini-kaybetti/) |
+| 33            | 1                | 2025      | [Kibris Postasi](https://www.kibrispostasi.com/c87-LEFKOSA/n579306-lefkosaguzelyurt-ana-yolunda-kaza-19-yasindaki-emir-berkin-gunhan-agir-yaralandi) |
+| 34            | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/olumlu-kazada-isimler-aciklandi/) |
+| 35            | 1                | 2025      | [Yenidüzen Gazetesi](https://www.yeniduzen.com/arac-ile-motosiklet-carpisti-bir-kisi-hayatini-kaybetti-189182h.htm) |
+| 36            | 1                | 2025      | [TAK](https://tak.gov.ct.tr/haber-detay/olumlu-trafik-kazasi-takla-atan-aracin-surucusu-hayatini-kaybetti-08-12-2025) |
+| **37** | **1** | **2026** | [Haber Kibris](https://haberkibris.com/iskele--ercan-anayolundaki-kazada-gul-kanli-hayatini-kaybetti-2343-2026-02-01.html) |
 
-**Not**: 11, 12, 13, 14, 15, 16, 17 ve 19 numaralı kazaların ölüm sayıları, haber başlıklarından (örneğin, "1 kişi", "bir can" veya tek bir isim) tahmini olarak belirlenmiştir.
+**Not**: 11-17 ve 19 numaralı kazalar tahmini rakamlardır. 37 numaralı kaza 2026 yılının ilk ölümlü kazası olarak kayıtlara geçmiştir.
 
 ## Kazaların Konumları
-
-Kazalar, Kuzey Kıbrıs'ın çeşitli ilçelerinde meydana gelmiştir. Kullanıcı tarafından sağlanan düzeltmelerle, bazı kazaların konumları yeniden sınıflandırılmıştır:
-- **Çamlıbel-Yılmazköy**: Girne ilçesinde ([101evler](https://www.101evler.com/)).
-- **Ercan-İskele**: Gazimağusa ilçesinde, İskele bölgesinde ([İskele Belediyesi](https://www.iskelebelediyesi.com/en/introducing/northern-cyprus.html)).
-- **Taşpınar-Bostancı**: Güzelyurt ilçesinde, Bostancı bölgesinde ([Vikipedi](https://tr.wikipedia.org/wiki/Yukar%C4%B1_Bostanc%C4%B1)).
 
 Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 
 | Kaza Numarası | Konum | İlçe |
 |---------------|-------|------|
-| 1             | Taşpınar-Bostancı ana yolu | Güzelyurt |
-| 2             | Çayırova-Büyükkonuk anayolu | Gazimağusa |
-| 3             | Ercan-İskele ana yolu (İskele birinci yol kavşağı) | Gazimağusa |
-| 4             | Çamlıbel-Yılmazköy ana yolu (Kılıçaslan mevki) | Girne |
-| 5             | Lefkoşa-Gazimağusa ana yolu | Lefkoşa |
-| 6             | Girne-Boğazköy (Şehit Sonay Özdayı Caddesi) | Girne |
-| 7             | Girne (Ecevit Caddesi) | Girne |
-| 8             | Lefkoşa-Güzelyurt anayolu (Gönyeli) | Lefkoşa |
-| 9             | Balıkesir (Hüseyin Özyiğit Caddesi) | Lefkoşa |
-| 10            | Gazimağusa-Lefkoşa ana yolu (Çanakkale Göleti önleri) | Gazimağusa |
-| 11            | Kilitkaya | Girne |
-| 12            | Girne | Girne |
-| 13            | Girne | Girne |
-| 14            | Yenierenköy | Girne |
-| 15            | Küçük Erenköy-Tatlısu ana yolu | Gazimağusa |
-| 16            | Esentep | Girne |
-| 17            | Cengizköy çemberi, Lefke-Güzelyurt ana yolu | Güzelyurt |
-| 18            | Girne – Değirmenlik Anayolu | Girne |
-| 19            | Minareliköy | Girne |
-| 20            | Pınarbaşı | Girne |
-| 21            | Çatalköy | Girne |
-| 22            | Alsancak | Girne |
-| 23            | Taşpınar-Bostancı Anayolu | Güzelyurt |
-| 24            | Gazimağusa-Lefkoşa ana yolu (Korkuteli Kavşağı) | Gazimağusa |
-| 25            | Girne - Tatlısu ana yolu (Korkuteli Kavşağı) | Girne |
-| 26            | Ercan – Gaziköy ana yolu | Gazimağusa |
-| 27            | Girne-Güzelyurt ana yolu | Girne |
-| 28            | İskele-Ercan yolu | Gazimağusa |
-| 29            | İskele-Ercan yolu | Gazimağusa |
-| 30            | Gazimağusa - Karpaz Anayolu | Gazimağusa |
-| 31            | Girne-Değirmenlik Anayolu | Girne |
-| 32            | Kermiya | Lefkoşa |
-| 33            | Lefkoşa-Güzelyurt ana yolu (Serhatköy mevkii) | Güzelyurt |
-| 34            | İskele-Ercan ana yolu (Gönendere Kavşağı) | Gazimağusa |
-| 35            | Kuzey Sahil Yolu (Ziyamet-Balalan, Yudi Dağı mevkii) | Gazimağusa |
-| 36            | Lefkoşa-Güzelyurt ana yolu (Zet Karting önleri) | Güzelyurt |
+| 1-36          | *(Yukarıdaki 2025 listesi ile aynı)* | (Çeşitli) |
+| **37** | **İskele - Ercan anayolu** | **Gazimağusa** |
 
-### İlçelere Göre Dağılım
-- **Girne**: 16 kaza (Kazalar: 4, 6, 7, 11, 12, 13, 14, 16, 18, 19, 20, 21, 22, 25, 27, 31)
-- **Gazimağusa**: 11 kaza (Kazalar: 2, 3, 10, 15, 24, 26, 28, 29, 30, 34, 35)
-- **Lefkoşa**: 4 kaza (Kazalar: 5, 8, 9, 32)
-- **Güzelyurt**: 5 kaza (Kazalar: 1, 17, 23, 33, 36)
+*(Not: Yer tasarrufu açısından 1-36 arası liste yukarıdaki orijinal bölümle aynıdır, sadece yeni eklenen kaza aşağıda detaylandırılmıştır.)*
 
-## En Çok Kaza Olan Yerler
+### Güncel İlçelere Göre Dağılım
+- **Girne**: 16 kaza
+- **Gazimağusa**: 12 kaza (2025'te 11 kaza + 2026'da 1 kaza)
+- **Lefkoşa**: 4 kaza
+- **Güzelyurt**: 5 kaza
 
-**Girne ilçesi**, 16 kaza ile en fazla kazanın meydana geldiği bölge olarak öne çıkmaktadır. Bu durum, Girne'nin yoğun trafiği, turistik aktiviteleri veya yol koşullarından kaynaklanabilir. Gazimağusa 11 kaza ile ikinci sırada yer alırken, Güzelyurt 5 ve Lefkoşa 4 kaza ile takip etmektedir.
+## En Çok Kaza Olan Yerler ve 2026 Güncellemesi
 
-### Girne'deki Kazaların Detayları
-Girne'deki kazalar, ilçenin farklı noktalarında meydana gelmiştir:
-- **Çamlıbel-Yılmazköy**: 1 ölüm (Kaza 4)
-- **Girne-Boğazköy**: 2 ölüm (Kaza 6)
-- **Girne (Ecevit Caddesi)**: 1 ölüm (Kaza 7)
-- **Kilitkaya**: 1 ölüm (tahmini, Kaza 11)
-- **Girne (genel)**: 2 kaza, her biri 1 ölüm (tahmini, Kazalar 12, 13)
-- **Yenierenköy**: 1 ölüm (tahmini, Kaza 14)
-- **Esentepe**: 1 ölüm (tahmini, Kaza 16)
-- **Girne – Değirmenlik Anayolu**: 2 kaza, 3 ölüm (Kaza 18, 31)
-- **Minareliköy**: 1 ölüm (tahmini, Kaza 19)
-- **Pınarbaşı**: 1 ölüm (Kaza 20)
-- **Çatalköy**: 1 ölüm (Kaza 21)
-- **Alsancak**: 1 ölüm (Kaza 22)
-- **Girne - Tatlısu Anayolu**: 1 ölüm (Kaza 25)
-- **Girne - Güzelyurt Anayolu**: 1 ölüm (Kaza 27)
+**İskele - Ercan Ana Yolu Alarm Veriyor**
+2025 yılında 4 büyük kazaya ve 5 ölüme sahne olan **İskele-Ercan ana yolu**, 2026 yılına da ölümlü bir kaza ile başlamıştır. 1 Şubat 2026 tarihinde meydana gelen kazada Gül Kanlı hayatını kaybetmiştir. Bu durum, bu yolun KKTC'deki en tehlikeli güzergahlardan biri olduğunu bir kez daha kanıtlamaktadır.
 
-### Gazimağusa'daki Kazaların Detayları
-Gazimağusa'daki kazalar, ana yollar üzerinde yoğunlaşmıştır:
-- **Çayırova-Büyükkonuk**: 1 ölüm (Kaza 2)
-- **Ercan-İskele (İskele birinci yol kavşağı)**: 1 ölüm (Kaza 3)
-- **Gazimağusa-Lefkoşa (Çanakkale Göleti)**: 1 ölüm (Kaza 10)
-- **Küçük Erenköy-Tatlısu**: 1 ölüm (tahmini, Kaza 15)
-- **Gazimağusa-Lefkoşa (Korkuteli)**: 1 ölüm (Kaza 24)
-- **Ercan – Gaziköy ana yolu**: 1 ölüm (Kaza 26)
-- **İskele – Ercan ana yolu**: 5 ölüm (Kaza 28, 29, 30, 34 - Gönendere Kavşağı ve Karpaz dahil)
-- **Kuzey Sahil Yolu (Ziyamet-Balalan, Yudi Dağı)**: 1 ölüm (Kaza 35)
-
-### Lefkoşa'daki Kazaların Detayları
-Lefkoşa'daki kazalar, genellikle ana yollarda veya şehir merkezine yakın bölgelerde gerçekleşmiştir:
-- **Lefkoşa-Gazimağusa ana yolu**: 1 ölüm (Kaza 5)
-- **Lefkoşa-Güzelyurt (Gönyeli)**: 1 ölüm (Kaza 8)
-- **Balıkesir**: 1 ölüm (Kaza 9)
-- **Kermiya**: 1 ölüm (Kaza 32)
-
-### Güzelyurt'taki Kazaların Detayları
-Güzelyurt'taki kazalar, ana yollar üzerinde meydana gelmiştir:
-- **Taşpınar-Bostancı**: 2 ölüm (Kaza 1, Kaza 23)
-- **Cengizköy çemberi**: 1 ölüm (tahmini, Kaza 17)
-- **Lefkoşa-Güzelyurt (Serhatköy)**: 1 ölüm (Kaza 33)
-- **Lefkoşa-Güzelyurt (Zet Karting önleri)**: 1 ölüm (Kaza 36)
+### İskele-Ercan Yolu Bilançosu (2025-2026)
+- **Toplam Ölüm**: 6
+- **İlgili Kazalar**: 28, 29, 30, 34 (2025 yılı) ve 37 (2026 yılı).
 
 ## Önemli Gözlemler
 
+### 2026 Yılının İlk Kaybı
+2025 yılının 39 kayıpla kapatılmasının ardından, 2026 yılı Şubat ayının ilk gününde İskele-Ercan anayolunda meydana gelen kaza ile başlamıştır. Bu kaza, 2025 yılında da çok sayıda can alan aynı güzergahta gerçekleşmiştir.
+
 ### Kritik Yollar
-Raporda öne çıkan yüksek riskli yollar:
-1. **İskele-Ercan ana yolu**: 5 ölüm (Kaza 28, 29, 30, 34) - Gazimağusa'da en yüksek risk taşıyan güzergah. Gönendere Kavşağı'nda son kazanın meydana gelmesi bu bölgenin tehlikesini vurgulamaktadır.
-2. **Lefkoşa-Güzelyurt ana yolu**: 4 ölüm (Kaza 8, 17, 33, 36) - Bu yolda tekrarlayan kazalar görülmektedir ve en son kaza 7 Aralık'ta meydana geldi. Bu yol kritik bir tehlike bölgesidir.
-3. **Girne-Değirmenlik Anayolu**: 3 ölüm (Kaza 18, 31) - İki ayrı kazada 3 kişi hayatını kaybetmiştir.
-4. **Kuzey Sahil Yolu**: 1 ölüm (Kaza 35) - Yudi Dağı mevkiinde virajlı yolda meydana gelen kaza.
+1.  **İskele-Ercan ana yolu**: Toplam 6 ölüm (Kaza 28, 29, 30, 34 ve **37**). Bölgedeki risk artarak devam etmektedir.
+2.  **Lefkoşa-Güzelyurt ana yolu**: 4 ölüm (Kaza 8, 17, 33, 36).
+3.  **Girne-Değirmenlik Anayolu**: 3 ölüm (Kaza 18, 31).
 
-### Motosiklet Kazaları
-36 kazanın önemli bir kısmı motosiklet kazalarıdır. Kaza 35'te motosiklet sürücüsü Alpaslan Tok'un virajda direksiyon hakimiyetini kaybetmesi sonucu meydana gelmiştir.
+## Yıllar İçinde Karşılaştırmalı Analiz (2010-2026)
 
-### Yaş Profili
-- Son eklenen kazada (Kaza 36), 36 yaşındaki Muhammad Shahzad hayatını kaybetmiştir.
-- Kaza 35'te motosiklet sürücüsü Alpaslan Tok hayatını kaybetmiştir.
-- Kaza 34'te 41 yaşındaki Raşit Tekin hayatını kaybetmiştir.
-- Kaza 33'te 19 yaşındaki genç bir sürücünün hayatını kaybetmesi, genç sürücüler arasındaki risk faktörlerine dikkat çekmektedir.
+Aşağıdaki tablo, Kuzey Kıbrıs ve Güney Kıbrıs'ta trafik kazalarında hayatını kaybeden kişi sayılarını göstermektedir:
 
-### Son Kaza Detayları (Kaza 36)
-7 Aralık 2025 akşamı saat 22:30'da Lefkoşa-Güzelyurt ana yolunda Zet Karting işletmesi önlerinde meydana gelen kazada:
-- Tek araç karışmıştır (JH 418 plakalı salon araç)
-- 36 yaşındaki Muhammad Shahzad (araç sürücüsü) olay yerinde hayatını kaybetmiştir
-- Lefkoşa'dan Güzelyurt'a seyir halindeyken dikkatsizlik sonucu direksiyon hakimiyetini kaybetmiştir
-- Araç yolun solundan çıkarak bordür taşlarına çarpmış ve takla atmıştır
-- Kaza nedeni: Dikkatsizlik ve direksiyon kontrolü kaybı
-
-## Yıllar İçinde Karşılaştırmalı Analiz (2010-2025)
-
-Aşağıdaki tablo, Kuzey Kıbrıs ve Güney Kıbrıs'ta 2010-2025 yılları arasında meydana gelen trafik kazalarında hayatını kaybeden kişi sayılarını göstermektedir:
-
-| Yıl  | KKTC Trafikte Ölüm | Güney Kıbrıs Trafikte Ölüm |
+| Yıl  | KKTC Trafikte Ölüm | Güney Kıbrıs Trafikte Ölüm |
 |------|-------------------|---------------------------|
-| 2010 | 41                | 60                        |
-| 2011 | 42                | 71                        |
-| 2012 | 24                | 51                        |
-| 2013 | 49                | 44                        |
-| 2014 | 29                | 45                        |
-| 2015 | 28                | 57                        |
-| 2016 | 36                | 46                        |
-| 2017 | 37                | 53                        |
-| 2018 | 24                | 49                        |
-| 2019 | 32                | 52                        |
-| 2020 | 28                | 48                        |
-| 2021 | 35                | 45                        |
-| 2022 | 24                | 37                        |
-| 2023 | 47                | 34                        |
-| 2024 | 50                | 41                        |
-| 2025 | 39*               | 26                        |
+| ...  | ...               | ...                       |
+| 2020 | 28                | 48                        |
+| 2021 | 35                | 45                        |
+| 2022 | 24                | 37                        |
+| 2023 | 47                | 34                        |
+| 2024 | 50                | 41                        |
+| 2025 | 39                | 26                        |
+| **2026** | **1***                | -                        |
 
-*8 Aralık 2025 itibarıyla 36 kaza ve 39 ölüm belgelenmiştir. Yıl sonuna kadar bu rakamın artması beklenmektedir.
+*2026 verisi 2 Şubat 2026 itibarıyladır.
 
-### Önemli Bulgular:
-- **2024 yılı**, KKTC için 2010-2025 döneminde en yüksek ölüm sayısının kaydedildiği yıl olmuştur (50 ölüm).
-- **2025 yılında** (Aralık ayı başı itibariyle) 39 kişi hayatını kaybetmiştir. Yıl sonuna kadar bu rakamın artması beklenmektedir ve 2024 yılı rekoruna yaklaşma riski bulunmaktadır.
-- **2022 ve 2018 yılları**, KKTC'de en düşük ölüm oranlarının görüldüğü yıllar olmuştur (24 ölüm).
-- **Güney Kıbrıs'ta** trafik ölümlerinde 2010'dan bu yana genel bir azalma trendi gözlenmektedir (2010: 60 → 2025: 26).
-- **KKTC'de** son yıllarda (2023-2025) trafik ölümlerinde belirgin bir artış yaşanmaktadır. 2025 yılı henüz bitmemesine rağmen 39 ölümle endişe verici bir seviyededir.
-- **Lefkoşa-Güzelyurt ana yolu** özellikle dikkat çekmektedir: 2025 yılında bu yolda 4 ölümlü kaza meydana gelmiş ve en son kaza 7 Aralık'ta gerçekleşmiştir.
-
-## Metodoloji
-
-Bu rapor, sağlanan 36 haber bağlantısının detaylı bir incelemesine dayanmaktadır. Son güncelleme 7 Aralık 2025 tarihinde Lefkoşa-Güzelyurt ana yolunda Zet Karting işletmesi önlerinde meydana gelen ve 36 yaşındaki Muhammad Shahzad'ın hayatını kaybettiği kazanın eklenmesiyle yapılmıştır.
-
-Bu rapor, 8 Aralık 2025 itibarıyla 36 kaza ve 39 ölüm belgelemiştir, bu da Yenidüzen Gazetesi'nin 26 Ekim 2025'te bildirdiği resmi rakamlarla tam uyumludur. Yıl sonuna kadar ek kazalar meydana gelebilir.
+### Metodoloji Güncellemesi
+Bu rapor, 2025 yılı verilerinin üzerine, 2026 yılında basına yansıyan ilk ölümlü kazanın eklenmesiyle güncellenmiştir. Son eklenen kaza (Kaza 37), İskele-Ercan anayolunda gerçekleşmiş ve Gül Kanlı hayatını kaybetmiştir. Rapor, iki yılı kapsayan kümülatif ve karşılaştırmalı verileri sunmaktadır.

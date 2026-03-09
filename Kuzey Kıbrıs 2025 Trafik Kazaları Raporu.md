@@ -4,6 +4,8 @@ Bu rapor, 2025 yılı boyunca ve 2026 yılının başlarında Kuzey Kıbrıs'ta 
 
 **Son Güncelleme**: 9 Mart 2026
 
+---
+
 ## Toplam Ölümler
 
 Sağlanan 39 haber bağlantısına göre, belirtilen dönemde trafik kazalarında toplam **42 kişi** hayatını kaybetmiştir.
@@ -54,7 +56,9 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | **38**        | **1**            | **2026**  | [Ahbap Gazetesi](https://ahbapgazetesi.com/2026/03/gonyeli-trafik-kazasinda-bir-kisi-hayatini-kaybetti-uc-kisi-yaralandi/) |
 | **39**        | **1**            | **2026**  | [Detay Kıbrıs](https://www.detaykibris.com/gonyelide-bugun-ikinci-olumlu-trafik-kazasi-355876h.htm) |
 
-**Not**: 11-17 ve 19 numaralı kazalar tahmini rakamlardır. 37 numaralı kaza 2026 yılının ilk ölümlü kazası olarak kayıtlara geçmiştir. 38 ve 39 numaralı kazalar aynı gün (8 Mart 2026) Gönyeli'de meydana gelmiştir.
+**Not**: 11–17 ve 19 numaralı kazalar tahmini rakamlardır. 37 numaralı kaza 2026 yılının ilk ölümlü kazası olarak kayıtlara geçmiştir. 38 ve 39 numaralı kazalar aynı gün (8 Mart 2026) Gönyeli'de meydana gelmiştir.
+
+---
 
 ## Kazaların Konumları
 
@@ -62,38 +66,82 @@ Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 
 | Kaza Numarası | Konum | İlçe |
 |---------------|-------|------|
-| 1-36          | *(Yukarıdaki 2025 listesi ile aynı)* | (Çeşitli) |
-| **37** | **İskele - Ercan anayolu** | **Gazimağusa** |
+| 1  | Girne bölgesi | Girne |
+| 2  | Çayırova–Büyükkonuk Anayolu | Gazimağusa |
+| 3  | İskele | Gazimağusa |
+| 4  | Girne (tahmini) | Girne |
+| 5  | Girne bölgesi | Girne |
+| 6  | Girne bölgesi | Girne |
+| 7  | Girne merkezi | Girne |
+| 8  | Lefkoşa–Güzelyurt Anayolu | Lefkoşa |
+| 9  | Girne bölgesi | Girne |
+| 10 | Lefkoşa merkezi | Lefkoşa |
+| 11 | Kılıtkaya | Girne |
+| 12 | Girne merkezi | Girne |
+| 13 | Girne merkezi | Girne |
+| 14 | Yenierenköy | Gazimağusa |
+| 15 | Girne bölgesi (tahmini) | Girne |
+| 16 | Esentepe | Girne |
+| 17 | Lefkoşa–Güzelyurt Anayolu (tahmini) | Lefkoşa |
+| 18 | Girne–Değirmenlik Anayolu | Girne |
+| 19 | Minareliköy | Lefkoşa |
+| 20 | Pınarbaşı | Girne |
+| 21 | Girne bölgesi (tahmini) | Girne |
+| 22 | Girne–Alsancak Anayolu | Girne |
+| 23 | Gazimağusa bölgesi (tahmini) | Gazimağusa |
+| 24 | Gazimağusa bölgesi (tahmini) | Gazimağusa |
+| 25 | Lefkoşa bölgesi (tahmini) | Lefkoşa |
+| 26 | Ercan–Gazikoy Ana Yolu | Lefkoşa |
+| 27 | Girne–Güzelyurt Yolu | Girne |
+| 28 | İskele–Ercan Anayolu | Gazimağusa |
+| 29 | Cihangir (İskele–Ercan güzergahı) | Gazimağusa |
+| 30 | İskele–Ercan Anayolu (tahmini) | Gazimağusa |
+| 31 | Girne–Değirmenlik Dağ Yolu | Girne |
+| 32 | Lefkoşa merkezi | Lefkoşa |
+| 33 | Lefkoşa–Güzelyurt Anayolu | Lefkoşa |
+| 34 | İskele–Ercan Anayolu | Gazimağusa |
+| 35 | Güzelyurt bölgesi (tahmini) | Güzelyurt |
+| 36 | Lefkoşa–Güzelyurt Anayolu (tahmini) | Güzelyurt |
+| **37** | **İskele–Ercan Anayolu** | **Gazimağusa** |
 | **38** | **Lefkoşa–Güzelyurt Anayolu 1. km, Ali Boy Büfe önü, Gönyeli** | **Lefkoşa** |
 | **39** | **Gönyeli Çemberi yakını** | **Lefkoşa** |
 
-### Güncel İlçelere Göre Dağılım
-- **Girne**: 16 kaza
-- **Gazimağusa**: 12 kaza (2025'te 11 kaza + 2026'da 1 kaza)
-- **Lefkoşa**: 6 kaza (2025'te 4 kaza + 2026'da 2 kaza)
-- **Güzelyurt**: 5 kaza
+### İlçelere Göre Dağılım
+
+| İlçe | Kaza Sayısı |
+|------|-------------|
+| Girne | 16 |
+| Gazimağusa | 12 |
+| Lefkoşa | 6 |
+| Güzelyurt | 5 |
+
+---
 
 ## En Çok Kaza Olan Yerler ve 2026 Güncellemesi
 
 **Gönyeli'de Tek Günde İki Ölümlü Kaza**
 8 Mart 2026 tarihinde Gönyeli'de aynı gün içinde iki ayrı ölümlü trafik kazası meydana gelmiştir. Sabahın erken saatlerinde (05:15) Lefkoşa–Güzelyurt Anayolu'nun 1. kilometresinde, Ali Boy Büfe önünde gerçekleşen kazada araçta yolcu olarak bulunan Yamm Hasaballa Hamid Hasaballa hayatını kaybetmiştir. Aynı günün sabah saatlerinde (09:30) Gönyeli Çemberi yakınında meydana gelen ikinci kazada ise ağır yaralanan araç sürücüsü hastanede kurtarılamamıştır.
 
-**İskele - Ercan Ana Yolu Alarm Veriyor**
-2025 yılında 4 büyük kazaya ve 5 ölüme sahne olan **İskele-Ercan ana yolu**, 2026 yılına da ölümlü bir kaza ile başlamıştır. 1 Şubat 2026 tarihinde meydana gelen kazada Gül Kanlı hayatını kaybetmiştir. Bu durum, bu yolun KKTC'deki en tehlikeli güzergahlardan biri olduğunu bir kez daha kanıtlamaktadır.
+**İskele–Ercan Ana Yolu Alarm Veriyor**
+2025 yılında 4 büyük kazaya ve 5 ölüme sahne olan **İskele–Ercan ana yolu**, 2026 yılına da ölümlü bir kaza ile başlamıştır. 1 Şubat 2026 tarihinde meydana gelen kazada Gül Kanlı hayatını kaybetmiştir. Bu durum, bu yolun KKTC'deki en tehlikeli güzergahlardan biri olduğunu bir kez daha kanıtlamaktadır.
 
-### İskele-Ercan Yolu Bilançosu (2025-2026)
+### İskele–Ercan Yolu Bilançosu (2025-2026)
 - **Toplam Ölüm**: 6
 - **İlgili Kazalar**: 28, 29, 30, 34 (2025 yılı) ve 37 (2026 yılı).
+
+---
 
 ## Önemli Gözlemler
 
 ### 2026 Yılının Kazaları
-2025 yılının 39 kayıpla kapatılmasının ardından, 2026 yılı Şubat ayının ilk gününde İskele-Ercan anayolunda meydana gelen kaza ile başlamıştır. Mart ayına gelindiğinde ise 8 Mart 2026'da Gönyeli'de tek bir gün içinde iki ayrı ölümlü kaza yaşanmış; bu durum özellikle Lefkoşa ilçesindeki trafik güvenliği sorununa dikkat çekmiştir.
+2025 yılının 39 kayıpla kapatılmasının ardından, 2026 yılı Şubat ayının ilk gününde İskele–Ercan anayolunda meydana gelen kaza ile başlamıştır. Mart ayına gelindiğinde ise 8 Mart 2026'da Gönyeli'de tek bir gün içinde iki ayrı ölümlü kaza yaşanmış; bu durum özellikle Lefkoşa ilçesindeki trafik güvenliği sorununa dikkat çekmiştir.
 
 ### Kritik Yollar
-1. **İskele-Ercan ana yolu**: Toplam 6 ölüm (Kaza 28, 29, 30, 34 ve **37**). Bölgedeki risk artarak devam etmektedir.
-2. **Lefkoşa-Güzelyurt ana yolu**: 5 ölüm (Kaza 8, 17, 33, 36 ve **38**).
-3. **Girne-Değirmenlik Anayolu**: 3 ölüm (Kaza 18, 31).
+1. **İskele–Ercan Ana Yolu**: Toplam 6 ölüm (Kaza 28, 29, 30, 34 ve **37**). Bölgedeki risk artarak devam etmektedir.
+2. **Lefkoşa–Güzelyurt Anayolu**: 5 ölüm (Kaza 8, 17, 33, 36 ve **38**).
+3. **Girne–Değirmenlik Anayolu**: 3 ölüm (Kaza 18, 31).
+
+---
 
 ## Yıllar İçinde Karşılaştırmalı Analiz (2010-2026)
 
@@ -112,5 +160,7 @@ Aşağıdaki tablo, Kuzey Kıbrıs ve Güney Kıbrıs'ta trafik kazalarında hay
 
 *2026 verisi 9 Mart 2026 itibarıyladır.
 
-### Metodoloji Güncellemesi
-Bu rapor, önceki verilerin üzerine 8 Mart 2026 tarihinde Gönyeli'de meydana gelen iki ölümlü kazanın eklenmesiyle güncellenmiştir. Kaza 38, Lefkoşa–Güzelyurt Anayolu üzerinde gerçekleşmiş ve araç yolcusu Yamm Hasaballa Hamid Hasaballa hayatını kaybetmiştir. Kaza 39 ise Gönyeli Çemberi yakınında meydana gelmiş olup araç sürücüsü erkek şahıs hastanede vefat etmiştir. Rapor, iki yılı kapsayan kümülatif ve karşılaştırmalı verileri sunmaktadır.
+---
+
+### Metodoloji
+Bu rapor, haber bağlantıları incelenerek derlenmiştir. Konum bilgileri haber başlıklarından ve URL içeriklerinden elde edilmiştir; (tahmini) olarak işaretlenen konumlar haber metninde açıkça belirtilmemiş, bölge bağlamından çıkarılmıştır. Kaza 38, Lefkoşa–Güzelyurt Anayolu üzerinde gerçekleşmiş ve araç yolcusu Yamm Hasaballa Hamid Hasaballa hayatını kaybetmiştir. Kaza 39 ise Gönyeli Çemberi yakınında meydana gelmiş olup araç sürücüsü erkek şahıs hastanede vefat etmiştir. Rapor, iki yılı kapsayan kümülatif ve karşılaştırmalı verileri sunmaktadır.

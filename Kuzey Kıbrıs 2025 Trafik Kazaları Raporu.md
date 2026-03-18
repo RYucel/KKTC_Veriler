@@ -2,15 +2,15 @@
 
 Bu rapor, 2025 yılı boyunca ve 2026 yılının başlarında Kuzey Kıbrıs'ta meydana gelen, [Kibris Gazetesi](https://kibrisgazetesi.com/), [Haber Kibris](https://haberkibris.com/) ve [Yeni Bakis Gazetesi](https://yenibakisgazetesi.com/) gibi kaynaklarda yayınlanan ölümlü trafik kazalarına ilişkin detaylı bir analiz sunmaktadır. Rapor, toplam ölen kişi sayısını, kazaların meydana geldiği yerleri ve en çok kaza olan bölgeleri ele almaktadır.
 
-**Son Güncelleme**: 9 Mart 2026
+**Son Güncelleme**: 18 Mart 2026
 
 ---
 
 ## Toplam Ölümler
 
-Sağlanan 39 haber bağlantısına göre, belirtilen dönemde trafik kazalarında toplam **42 kişi** hayatını kaybetmiştir.
+Sağlanan 40 haber bağlantısına göre, belirtilen dönemde trafik kazalarında toplam **43 kişi** hayatını kaybetmiştir.
 - **2025 Yılı:** 36 kaza, 39 ölüm.
-- **2026 Yılı:** 3 kaza, 3 ölüm (Mart ayı itibarıyla).
+- **2026 Yılı:** 4 kaza, 4 ölüm (Mart ayı itibarıyla).
 
 Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetlemektedir:
 
@@ -55,8 +55,9 @@ Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetl
 | 37            | 1                | 2026      | [Haber Kibris](https://haberkibris.com/iskele--ercan-anayolundaki-kazada-gul-kanli-hayatini-kaybetti-2343-2026-02-01.html) |
 | **38**        | **1**            | **2026**  | [Ahbap Gazetesi](https://ahbapgazetesi.com/2026/03/gonyeli-trafik-kazasinda-bir-kisi-hayatini-kaybetti-uc-kisi-yaralandi/) |
 | **39**        | **1**            | **2026**  | [Detay Kıbrıs](https://www.detaykibris.com/gonyelide-bugun-ikinci-olumlu-trafik-kazasi-355876h.htm) |
+| **40**        | **1**            | **2026**  | [Facebook / Polis Açıklaması](https://www.facebook.com/share/p/1AyJs9q9oA/) |
 
-**Not**: 11–17 ve 19 numaralı kazalar tahmini rakamlardır. 37 numaralı kaza 2026 yılının ilk ölümlü kazası olarak kayıtlara geçmiştir. 38 ve 39 numaralı kazalar aynı gün (8 Mart 2026) Gönyeli'de meydana gelmiştir.
+**Not**: 11–17 ve 19 numaralı kazalar tahmini rakamlardır. 37 numaralı kaza 2026 yılının ilk ölümlü kazası olarak kayıtlara geçmiştir. 38 ve 39 numaralı kazalar aynı gün (8 Mart 2026) Gönyeli'de meydana gelmiştir. 40 numaralı kaza 17 Mart 2026'da Girne–Lefkoşa Anayolu'nda yaya ölümüyle sonuçlanmıştır.
 
 ---
 
@@ -105,6 +106,7 @@ Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 | **37** | **İskele–Ercan Anayolu** | **Gazimağusa** |
 | **38** | **Lefkoşa–Güzelyurt Anayolu 1. km, Ali Boy Büfe önü, Gönyeli** | **Lefkoşa** |
 | **39** | **Gönyeli Çemberi yakını** | **Lefkoşa** |
+| **40** | **Girne–Lefkoşa Anayolu, Kuzey Çevre Yolu bağlantısı** | **Lefkoşa** |
 
 ### İlçelere Göre Dağılım
 
@@ -112,7 +114,7 @@ Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 |------|-------------|
 | Girne | 16 |
 | Gazimağusa | 12 |
-| Lefkoşa | 6 |
+| Lefkoşa | 7 |
 | Güzelyurt | 5 |
 
 ---
@@ -134,7 +136,7 @@ Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
 ## Önemli Gözlemler
 
 ### 2026 Yılının Kazaları
-2025 yılının 39 kayıpla kapatılmasının ardından, 2026 yılı Şubat ayının ilk gününde İskele–Ercan anayolunda meydana gelen kaza ile başlamıştır. Mart ayına gelindiğinde ise 8 Mart 2026'da Gönyeli'de tek bir gün içinde iki ayrı ölümlü kaza yaşanmış; bu durum özellikle Lefkoşa ilçesindeki trafik güvenliği sorununa dikkat çekmiştir.
+2025 yılının 39 kayıpla kapatılmasının ardından, 2026 yılı Şubat ayının ilk gününde İskele–Ercan anayolunda meydana gelen kaza ile başlamıştır. Mart ayına gelindiğinde ise 8 Mart 2026'da Gönyeli'de tek bir gün içinde iki ayrı ölümlü kaza yaşanmış; 17 Mart 2026'da ise Girne–Lefkoşa Anayolu'nda Kuzey Çevre Yolu bağlantısında yaya Musa Mavideniz hayatını kaybetmiştir. Araç sürücüsü Yiğit Kaya tutuklanmıştır. Bu gelişmeler özellikle Lefkoşa ilçesindeki trafik güvenliği sorununa dikkat çekmektedir.
 
 ### Kritik Yollar
 1. **İskele–Ercan Ana Yolu**: Toplam 6 ölüm (Kaza 28, 29, 30, 34 ve **37**). Bölgedeki risk artarak devam etmektedir.
@@ -156,11 +158,11 @@ Aşağıdaki tablo, Kuzey Kıbrıs ve Güney Kıbrıs'ta trafik kazalarında hay
 | 2023 | 47                | 34                        |
 | 2024 | 50                | 41                        |
 | 2025 | 39                | 48                        |
-| **2026** | **3\***       | -                         |
+| **2026** | **4\***       | -                         |
 
-*2026 verisi 9 Mart 2026 itibarıyladır.
+*2026 verisi 18 Mart 2026 itibarıyladır.
 
 ---
 
 ### Metodoloji
-Bu rapor, haber bağlantıları incelenerek derlenmiştir. Konum bilgileri haber başlıklarından ve URL içeriklerinden elde edilmiştir; (tahmini) olarak işaretlenen konumlar haber metninde açıkça belirtilmemiş, bölge bağlamından çıkarılmıştır. Kaza 38, Lefkoşa–Güzelyurt Anayolu üzerinde gerçekleşmiş ve araç yolcusu Yamm Hasaballa Hamid Hasaballa hayatını kaybetmiştir. Kaza 39 ise Gönyeli Çemberi yakınında meydana gelmiş olup araç sürücüsü erkek şahıs hastanede vefat etmiştir. Rapor, iki yılı kapsayan kümülatif ve karşılaştırmalı verileri sunmaktadır.
+Bu rapor, haber bağlantıları incelenerek derlenmiştir. Konum bilgileri haber başlıklarından ve URL içeriklerinden elde edilmiştir; (tahmini) olarak işaretlenen konumlar haber metninde açıkça belirtilmemiş, bölge bağlamından çıkarılmıştır. Kaza 38, Lefkoşa–Güzelyurt Anayolu üzerinde gerçekleşmiş ve araç yolcusu Yamm Hasaballa Hamid Hasaballa hayatını kaybetmiştir. Kaza 39 ise Gönyeli Çemberi yakınında meydana gelmiş olup araç sürücüsü erkek şahıs hastanede vefat etmiştir. Kaza 40, 17 Mart 2026'da Girne–Lefkoşa Anayolu'nda Kuzey Çevre Yolu bağlantısında yaya Musa Mavideniz'in UJ 208 plakalı araçla çarpışması sonucu hayatını kaybetmesiyle gerçekleşmiştir; araç sürücüsü Yiğit Kaya tutuklanmıştır. Rapor, iki yılı kapsayan kümülatif ve karşılaştırmalı verileri sunmaktadır.

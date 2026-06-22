@@ -1,168 +1,81 @@
 # Kuzey Kıbrıs 2025-2026 Trafik Kazaları Raporu
 
-Bu rapor, 2025 yılı boyunca ve 2026 yılının başlarında Kuzey Kıbrıs'ta meydana gelen, [Kibris Gazetesi](https://kibrisgazetesi.com/), [Haber Kibris](https://haberkibris.com/) ve [Yeni Bakis Gazetesi](https://yenibakisgazetesi.com/) gibi kaynaklarda yayınlanan ölümlü trafik kazalarına ilişkin detaylı bir analiz sunmaktadır. Rapor, toplam ölen kişi sayısını, kazaların meydana geldiği yerleri ve en çok kaza olan bölgeleri ele almaktadır.
+Bu rapor, 2025 yılı boyunca ve 2026 yılının ilk yarısında (22 Haziran 2026 itibarıyla) Kuzey Kıbrıs'ta meydana gelen ölümlü trafik kazalarına ilişkin güncel ve detaylı bir analiz sunmaktadır. Rapor, toplam ölen kişi sayısını, kazaların meydana geldiği yerleri, risk faktörlerini ve kök nedenleri ele almaktadır.
 
-**Son Güncelleme**: 18 Mart 2026
+**Son Güncelleme**: 22 Haziran 2026
 
 ---
 
 ## Toplam Ölümler
 
-Sağlanan 40 haber bağlantısına göre, belirtilen dönemde trafik kazalarında toplam **43 kişi** hayatını kaybetmiştir.
-- **2025 Yılı:** 36 kaza, 39 ölüm.
-- **2026 Yılı:** 4 kaza, 4 ölüm (Mart ayı itibarıyla).
+Belirtilen dönemde trafik kazalarındaki can kayıpları istatistiksel bir dalgalanma gösterse de kriz boyutunu korumaktadır. Güncellenmiş resmi kayıtlar ve adli raporlamalar doğrultusunda veriler aşağıdaki gibidir:
 
-Aşağıdaki tablo, incelenen kazalardan elde edilen ölüm sayılarını özetlemektedir:
+* **2025 Yılı:** Polis Genel Müdürlüğü verilerine göre 2025 yılında toplam 39 ölümlü trafik kazası meydana gelmiş olup, bu kazalarda 42 kişi hayatını kaybetmiştir.
+* **2026 Yılı:** Ocak ayından 22 Haziran 2026 tarihine kadar olan ilk altı aylık kesitte, çoklu ölüm vakalarının da etkisiyle en az 19 kişi yaşamını yitirmiştir.
 
-| Kaza Numarası | Ölen Kişi Sayısı | Tarih/Yıl | Kaynak |
-|---------------|------------------|-----------|--------|
-| 1             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kaza-traktor-devrildi-surucu-hayatini-kaybetti/) |
-| 2             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/cayirova-buyukkonuk-anayolunda-trafik-kazasi-1-kisi-hayatini-kaybetti/) |
-| 3             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/iskelede-olumlu-trafik-kazasi-motosiklet-surucusu-hayatini-kaybetti/) |
-| 4             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/trafik-kazasinda-agir-yaralanmisti-yasam-savasini-kaybetti/) |
-| 5             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/olumlu-kazada-araci-kullanan-sahis-tespit-edildi-tutuklandi/) |
-| 6             | 2                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kazada-hayatini-kaybedenlerin-kimligi-aciklandi/) |
-| 7             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/girnede-feci-carpisma-1-olu/) |
-| 8             | 1                | 2025      | [Haber Kibris](https://haberkibris.com/lefkosa-guzelyurt-anayolunda-feci-kaza-bir-kisi-hayatini-kaybetti-0703-2025-02-09.html) |
-| 9             | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/trafige-bir-can-daha-hamiyet-gorgu-hayatini-kaybetti/) |
-| 10            | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kaza-iki-aracin-carptigi-yaya-yasamini-yitirdi/) |
-| 11            | 1 (tahmini)      | 2025      | [Haber Kibris](https://haberkibris.com/kilitkayada-olumlu-kaza-1743-2025-03-16.html) |
-| 12            | 1 (tahmini)      | 2025      | [Yeni Bakis Gazetesi](https://yenibakisgazetesi.com/girnede-trafik-kazasi-1-olu-15-yasinda-2-cocuk-agir-yarali/) |
-| 13            | 1 (tahmini)      | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/girnede-feci-kaza-arac-yayaya-carpti-1-kisi-hayatini-kaybetti/) |
-| 14            | 1 (tahmini)      | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/yenierenkoyde-meydana-gelen-feci-kazada-umut-goksal-sevenlerini-yasa-bogdu/) |
-| 15            | 1 (tahmini)      | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/trafige-bir-can-daha-29-yasindaki-genc-yasam-savasini-kaybetti/) |
-| 16            | 1 (tahmini)      | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/esentepede-motosiklet-kazasi-mustafa-kemal-batibeniz-hayatini-kaybetti/) |
-| 17            | 1 (tahmini)      | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/trafige-bir-can-daha-22-yasindaki-surucu-yasamini-yitirdi/) |
-| 18            | 2                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/feci-kazada-ali-ozarapkoylu-ve-raja-shariq-amin-hayatini-kaybetti/) |
-| 19            | 1 (tahmini)      | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/minarelikoydeki-feci-kazada-motosiklette-yolcu-olan-ali-minnos-hayatini-kaybetti/) |
-| 20            | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/pinarbasinda-trafik-kazasi-can-aldi-25-yasindaki-motosiklet-surucusu-hayatini-kaybetti/) |
-| 21            | 1                | 2025      | [Topuz Gazetesi](https://www.topuzgazetesi.com/trafik-kazasinda-agir-yaralanmisti-motosiklet-surucusu-hayatini-kaybetti) |
-| 22            | 1                | 2025      | [Havadis Gazetesi](https://www.havadiskibris.com/girne-alsancak-anayolunda-meydana-gelen-kazada-81-yasindaki-fuat-zorali-oldu/) |
-| 23            | 1                | 2025      | [TAK](https://x.com/TAKAjansi/status/1947179063832961196) |
-| 24            | 1                | 2025      | [Havadis Gazetesi](https://www.havadiskibris.com/bir-olumlu-trafik-kazasi-daha/) |
-| 25            | 1                | 2025      | [Yenidüzen Gazetesi](https://www.yeniduzen.com/trafige-bir-can-daha-185205h.htm) |
-| 26            | 1                | 2025      | [Havadis Gazetesi](https://www.havadiskibris.com/ercan-gazikoy-ana-yolundaki-trafik-kazasinda-1-kisi-yasamini-yitirdi/) |
-| 27            | 1                | 2025      | [Kıbrıs Gerçek](https://www.kibrisgercek.com/girne-guzelyurt-yolunda-feci-kaza-34-yasindaki-hasan-kapci-hayatini-kaybetti) |
-| 28            | 2                | 2025      | [Gündem Kıbrıs](https://www.gundemkibris.com/iskele-ercan-yolunda-feci-kaza-2-genc-yasamini-yitirdi) |
-| 29            | 1                | 2025      | [Kibris Postasi](https://www.kibrispostasi.com/c87-LEFKOSA/n575517-cihangirde-trafik-kazasi-3-arac-carpistigi-kazada-edmund-jonathan-cooke-hayatini-kaybetti) |
-| 30            | 1                | 2025      | [Yenidüzen Gazetesi](https://www.yeniduzen.com/trafige-bir-can-daha-187236h.htm) |
-| 31            | 1                | 2025      | [Kibris Ayrinti](https://www.kibrisayrinti.com/dagyolunda-buyuk-kaza-1-kisi-yasamini-yitirdi) |
-| 32            | 1                | 2025      | [BRTK](https://brtk.net/lefkosada-feci-kaza-1-kisi-hayatini-kaybetti/) |
-| 33            | 1                | 2025      | [Kibris Postasi](https://www.kibrispostasi.com/c87-LEFKOSA/n579306-lefkosaguzelyurt-ana-yolunda-kaza-19-yasindaki-emir-berkin-gunhan-agir-yaralandi) |
-| 34            | 1                | 2025      | [Kibris Gazetesi](https://kibrisgazetesi.com/olumlu-kazada-isimler-aciklandi/) |
-| 35            | 1                | 2025      | [Yenidüzen Gazetesi](https://www.yeniduzen.com/arac-ile-motosiklet-carpisti-bir-kisi-hayatini-kaybetti-189182h.htm) |
-| 36            | 1                | 2025      | [TAK](https://tak.gov.ct.tr/haber-detay/olumlu-trafik-kazasi-takla-atan-aracin-surucusu-hayatini-kaybetti-08-12-2025) |
-| 37            | 1                | 2026      | [Haber Kibris](https://haberkibris.com/iskele--ercan-anayolundaki-kazada-gul-kanli-hayatini-kaybetti-2343-2026-02-01.html) |
-| **38**        | **1**            | **2026**  | [Ahbap Gazetesi](https://ahbapgazetesi.com/2026/03/gonyeli-trafik-kazasinda-bir-kisi-hayatini-kaybetti-uc-kisi-yaralandi/) |
-| **39**        | **1**            | **2026**  | [Detay Kıbrıs](https://www.detaykibris.com/gonyelide-bugun-ikinci-olumlu-trafik-kazasi-355876h.htm) |
-| **40**        | **1**            | **2026**  | [Facebook / Polis Açıklaması](https://www.facebook.com/share/p/1AyJs9q9oA/) |
+Aşağıdaki tablo, incelenen kazalardan elde edilen güncel ölüm sayılarını özetlemektedir:
 
-**Not**: 11–17 ve 19 numaralı kazalar tahmini rakamlardır. 37 numaralı kaza 2026 yılının ilk ölümlü kazası olarak kayıtlara geçmiştir. 38 ve 39 numaralı kazalar aynı gün (8 Mart 2026) Gönyeli'de meydana gelmiştir. 40 numaralı kaza 17 Mart 2026'da Girne–Lefkoşa Anayolu'nda yaya ölümüyle sonuçlanmıştır.
-
----
-
-## Kazaların Konumları
-
-Aşağıda, her bir kazanın konumu ve ilgili ilçe belirtilmiştir:
-
-| Kaza Numarası | Konum | İlçe |
-|---------------|-------|------|
-| 1  | Girne bölgesi | Girne |
-| 2  | Çayırova–Büyükkonuk Anayolu | Gazimağusa |
-| 3  | İskele | Gazimağusa |
-| 4  | Girne (tahmini) | Girne |
-| 5  | Girne bölgesi | Girne |
-| 6  | Girne bölgesi | Girne |
-| 7  | Girne merkezi | Girne |
-| 8  | Lefkoşa–Güzelyurt Anayolu | Lefkoşa |
-| 9  | Girne bölgesi | Girne |
-| 10 | Lefkoşa merkezi | Lefkoşa |
-| 11 | Kılıtkaya | Girne |
-| 12 | Girne merkezi | Girne |
-| 13 | Girne merkezi | Girne |
-| 14 | Yenierenköy | Gazimağusa |
-| 15 | Girne bölgesi (tahmini) | Girne |
-| 16 | Esentepe | Girne |
-| 17 | Lefkoşa–Güzelyurt Anayolu (tahmini) | Lefkoşa |
-| 18 | Girne–Değirmenlik Anayolu | Girne |
-| 19 | Minareliköy | Lefkoşa |
-| 20 | Pınarbaşı | Girne |
-| 21 | Girne bölgesi (tahmini) | Girne |
-| 22 | Girne–Alsancak Anayolu | Girne |
-| 23 | Gazimağusa bölgesi (tahmini) | Gazimağusa |
-| 24 | Gazimağusa bölgesi (tahmini) | Gazimağusa |
-| 25 | Lefkoşa bölgesi (tahmini) | Lefkoşa |
-| 26 | Ercan–Gazikoy Ana Yolu | Lefkoşa |
-| 27 | Girne–Güzelyurt Yolu | Girne |
-| 28 | İskele–Ercan Anayolu | Gazimağusa |
-| 29 | Cihangir (İskele–Ercan güzergahı) | Gazimağusa |
-| 30 | İskele–Ercan Anayolu (tahmini) | Gazimağusa |
-| 31 | Girne–Değirmenlik Dağ Yolu | Girne |
-| 32 | Lefkoşa merkezi | Lefkoşa |
-| 33 | Lefkoşa–Güzelyurt Anayolu | Lefkoşa |
-| 34 | İskele–Ercan Anayolu | Gazimağusa |
-| 35 | Güzelyurt bölgesi (tahmini) | Güzelyurt |
-| 36 | Lefkoşa–Güzelyurt Anayolu (tahmini) | Güzelyurt |
-| **37** | **İskele–Ercan Anayolu** | **Gazimağusa** |
-| **38** | **Lefkoşa–Güzelyurt Anayolu 1. km, Ali Boy Büfe önü, Gönyeli** | **Lefkoşa** |
-| **39** | **Gönyeli Çemberi yakını** | **Lefkoşa** |
-| **40** | **Girne–Lefkoşa Anayolu, Kuzey Çevre Yolu bağlantısı** | **Lefkoşa** |
-
-### İlçelere Göre Dağılım
-
-| İlçe | Kaza Sayısı |
-|------|-------------|
-| Girne | 16 |
-| Gazimağusa | 12 |
-| Lefkoşa | 7 |
-| Güzelyurt | 5 |
+| Kaza Dönemi / Tarih | Ölen Kişi Sayısı | Konum / Mağdur | Kök Neden ve Kazanın Karakteristiği |
+| --- | --- | --- | --- |
+| **2025 Yılı Geneli** | 42 | KKTC Geneli | Resmi polis bültenlerine göre 39 kazada 42 ölüm. |
+| **01 Şub 2026** | 1 | İskele-Ercan Anayolu / Gül Kanlı (46) | Karşı şeride geçme, Kafa kafaya çarpışma. |
+| **08 Mar 2026** | 1 | Lefkoşa-Güzelyurt (Gönyeli) / Yamm Hasaballa (31) | Direksiyon hakimiyeti kaybı, Aydınlatma direğine çarpma. |
+| **08 Mar 2026** | 1 | Gönyeli Çemberi / Mustafa Taş (26) | Yoldan çıkma, Sabit objeye çarpma. |
+| **17 Mar 2026** | 1 | Girne-Lefkoşa (Kuzey Çevre Yolu) / Musa Mavideniz (51) | Gece şartlarında yayaya çarpma. |
+| **30 Mar 2026** | 1 | Girne-Alsancak Çevre Yolu / Mariam Yahounisse (18) | Orta refüj çelik bariyerine çarpma, Takla atma. |
+| **03 Nis 2026** | 2 | Pamuklu-Kumyalı Anayolu / Cemal Temel (71), H. Nurçin (64) | Şerit ihlali, İki aracın şiddetli kafa kafaya çarpışması. |
+| **06 Nis 2026** | 1 | Lefkoşa Kuzey Çevre Yolu / Mehmet S. Baycengiz (24) | Sürat, Refüje ve beton sete çarpma. |
+| **09 Nis 2026** | 1 | KKTC (Sevk: İstanbul) / Aziz Bakıcı (22) | Ağır travma komplikasyonları. |
+| **19 Nis 2026** | 1 | İsmet İnönü Blv., Gazimağusa / Ömer Albaz (36) | Alkollü Sürüş (119 mg), Yayaya Çarpma. |
+| **08 May 2026** | 1 | İskele-Ercan (Sütlüce Kavşağı) / Osman Öztürk (45) | Hatalı sollama girişimi, Kafa kafaya çarpışma. |
+| **10 May 2026** | 1 | Çanakkale Göleti, Gazimağusa / Atamurat Narbayev (38) | Çevre yolunda yaya güvenliği ihlali, Gece görüşü kaybı. |
+| **22 May 2026** | 3 | Uğur Mumcu Cd., Çatalköy / S. Di Libero, M. Khan, J. Khan | Şerit ihlali, Kafa kafaya çarpışma. |
+| **13 Haz 2026** | 1 | Çayönü / Mustafa Aslan (60) | Traktör devrilmesi, İş güvenliği eksikliği. |
+| **22 Haz 2026** | 1 | Ecevit Cd., Yeşilyurt / Cemil Taşkan (41) | Duraklayan Çöp Kamyonuna çarpma, Gece körlüğü. |
+| **Haz 2026** | 1 | Lefkoşa / Ali Palaz | Ağır yaralanma sonrası hastanede vefat. |
+| **Haz 2026** | 1 | Kuzey Sahil Yolu (Yudi Bölgesi) / Alpaslan Tok (41) | Yoldan çıkma ve devrilme. |
 
 ---
 
 ## En Çok Kaza Olan Yerler ve 2026 Güncellemesi
 
-**Gönyeli'de Tek Günde İki Ölümlü Kaza**
-8 Mart 2026 tarihinde Gönyeli'de aynı gün içinde iki ayrı ölümlü trafik kazası meydana gelmiştir. Sabahın erken saatlerinde (05:15) Lefkoşa–Güzelyurt Anayolu'nun 1. kilometresinde, Ali Boy Büfe önünde gerçekleşen kazada araçta yolcu olarak bulunan Yamm Hasaballa Hamid Hasaballa hayatını kaybetmiştir. Aynı günün sabah saatlerinde (09:30) Gönyeli Çemberi yakınında meydana gelen ikinci kazada ise ağır yaralanan araç sürücüsü hastanede kurtarılamamıştır.
+2026 yılının ilk altı ayında gözlemlenen kaza profilleri, özellikle bölünmemiş yollardaki kafa kafaya çarpışmaların ve aydınlatma eksikliği bulunan çevre yollarının yüksek risk barındırdığını kanıtlamaktadır.
 
-**İskele–Ercan Ana Yolu Alarm Veriyor**
-2025 yılında 4 büyük kazaya ve 5 ölüme sahne olan **İskele–Ercan ana yolu**, 2026 yılına da ölümlü bir kaza ile başlamıştır. 1 Şubat 2026 tarihinde meydana gelen kazada Gül Kanlı hayatını kaybetmiştir. Bu durum, bu yolun KKTC'deki en tehlikeli güzergahlardan biri olduğunu bir kez daha kanıtlamaktadır.
+### İskele-Ercan Ana Yolu: Ölüm Koridoru
 
-### İskele–Ercan Yolu Bilançosu (2025-2026)
-- **Toplam Ölüm**: 6
-- **İlgili Kazalar**: 28, 29, 30, 34 (2025 yılı) ve 37 (2026 yılı).
+* 2025 yılında 4 büyük kazaya sahne olan İskele-Ercan anayolu, 2026 yılında da en tehlikeli yol statüsünü korumuştur.
+* 1 Şubat 2026 tarihinde, karşı şeride geçme sonucu yaşanan kafa kafaya çarpışmada Gül Kanlı (46) hayatını kaybetmiştir.
+* 8 Mayıs 2026 tarihinde Sütlüce kavşağı yakınlarında yine hatalı sollama girişimi sonucu meydana gelen kafa kafaya çarpışmada Osman Öztürk (45) yaşamını yitirmiştir.
 
----
+### Gönyeli ve Çevresi: Sistematik İflas
 
-## Önemli Gözlemler
+* 8 Mart 2026 tarihinde Gönyeli'de aynı gün sadece dört saat arayla iki farklı ölümlü kaza meydana gelmiştir.
+* Sabah 05:15'te Ali Boy Büfe önünde Yamm Hasaballa'nın (31) aydınlatma direğine çarpması ve saat 09:20'de Gönyeli çemberinde Mustafa Taş'ın (26) yoldan çıkarak sabit bir objeye çarpması sonucu hayatlarını kaybetmeleri, bölgedeki yol kenarı affediciliğinin (forgiving roadside) yetersizliğini ortaya koymaktadır.
 
-### 2026 Yılının Kazaları
-2025 yılının 39 kayıpla kapatılmasının ardından, 2026 yılı Şubat ayının ilk gününde İskele–Ercan anayolunda meydana gelen kaza ile başlamıştır. Mart ayına gelindiğinde ise 8 Mart 2026'da Gönyeli'de tek bir gün içinde iki ayrı ölümlü kaza yaşanmış; 17 Mart 2026'da ise Girne–Lefkoşa Anayolu'nda Kuzey Çevre Yolu bağlantısında yaya Musa Mavideniz hayatını kaybetmiştir. Araç sürücüsü Yiğit Kaya tutuklanmıştır. Bu gelişmeler özellikle Lefkoşa ilçesindeki trafik güvenliği sorununa dikkat çekmektedir.
+### Çatalköy ve Çoklu Kayıplar
 
-### Kritik Yollar
-1. **İskele–Ercan Ana Yolu**: Toplam 6 ölüm (Kaza 28, 29, 30, 34 ve **37**). Bölgedeki risk artarak devam etmektedir.
-2. **Lefkoşa–Güzelyurt Anayolu**: 5 ölüm (Kaza 8, 17, 33, 36 ve **38**).
-3. **Girne–Değirmenlik Anayolu**: 3 ölüm (Kaza 18, 31).
+* 2026 yılındaki kazaların şiddet artışı, aynı kazada birden fazla can kaybının yaşanmasıyla dikkat çekmektedir.
+* 22 Mayıs 2026'da Çatalköy, Uğur Mumcu Caddesi üzerinde şerit ihlali kaynaklı kafa kafaya çarpışmada 3 kişi (S. Di Libero (66), M. Khan (61), J. Khan (68)) aynı kazada hayatını kaybetmiştir.
 
----
+### Savunmasız Kullanıcılar: Yaya ve Motosikletliler
 
-## Yıllar İçinde Karşılaştırmalı Analiz (2010-2026)
-
-Aşağıdaki tablo, Kuzey Kıbrıs ve Güney Kıbrıs'ta trafik kazalarında hayatını kaybeden kişi sayılarını göstermektedir:
-
-| Yıl  | KKTC Trafikte Ölüm | Güney Kıbrıs Trafikte Ölüm |
-|------|-------------------|---------------------------|
-| ...  | ...               | ...                       |
-| 2020 | 28                | 48                        |
-| 2021 | 35                | 45                        |
-| 2022 | 24                | 37                        |
-| 2023 | 47                | 34                        |
-| 2024 | 50                | 41                        |
-| 2025 | 39                | 48                        |
-| **2026** | **4\***       | -                         |
-
-*2026 verisi 18 Mart 2026 itibarıyladır.
+* 10 Mayıs 2026'da Gazimağusa'da yaya Atamurat Narbayev (38) gece görüşü kaybı sebebiyle, 19 Nisan 2026'da ise yaya Ömer Albaz (36) alkollü (119 mg) bir sürücünün çarpması sonucu hayatını kaybetmiştir.
+* 22 Haziran 2026 tarihinde Yeşilyurt'ta motosiklet sürücüsü Cemil Taşkan (41), duraklayan bir çöp kamyonuna çarparak yaşamını yitirmiştir.
 
 ---
 
-### Metodoloji
-Bu rapor, haber bağlantıları incelenerek derlenmiştir. Konum bilgileri haber başlıklarından ve URL içeriklerinden elde edilmiştir; (tahmini) olarak işaretlenen konumlar haber metninde açıkça belirtilmemiş, bölge bağlamından çıkarılmıştır. Kaza 38, Lefkoşa–Güzelyurt Anayolu üzerinde gerçekleşmiş ve araç yolcusu Yamm Hasaballa Hamid Hasaballa hayatını kaybetmiştir. Kaza 39 ise Gönyeli Çemberi yakınında meydana gelmiş olup araç sürücüsü erkek şahıs hastanede vefat etmiştir. Kaza 40, 17 Mart 2026'da Girne–Lefkoşa Anayolu'nda Kuzey Çevre Yolu bağlantısında yaya Musa Mavideniz'in UJ 208 plakalı araçla çarpışması sonucu hayatını kaybetmesiyle gerçekleşmiştir; araç sürücüsü Yiğit Kaya tutuklanmıştır. Rapor, iki yılı kapsayan kümülatif ve karşılaştırmalı verileri sunmaktadır.
+## Yıllar İçinde Karşılaştırmalı Analiz (2020-2026)
+
+Trafik kazalarındaki ölüm oranları, bir ülkenin sosyoekonomik gelişmişlik düzeyi, ulaşım altyapısı ve hukuki yaptırım gücü ile doğrudan ilişkilidir. Aşağıdaki tablo, Kuzey Kıbrıs ile Güney Kıbrıs arasındaki trafik ölümlerinin karşılaştırmalı gelişimini göstermektedir:
+
+| Yıl | KKTC Trafikte Ölüm | Güney Kıbrıs Trafikte Ölüm |
+| --- | --- | --- |
+| 2020 | 28 | 48 |
+| 2021 | 35 | 45 |
+| 2022 | 24 | 37 |
+| 2023 | 47 | 34 |
+| 2024 | 51 | 41 |
+| 2025 | 42 | 48 |
+| **2026** | **19*** | **Veri Bekleniyor** |
+
+**22 Haziran 2026 itibarıyla ilk altı aylık veridir.*
